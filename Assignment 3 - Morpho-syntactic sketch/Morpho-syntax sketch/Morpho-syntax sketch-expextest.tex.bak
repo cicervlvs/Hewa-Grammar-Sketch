@@ -18,8 +18,8 @@
 \usepackage{expex} %exemples lingüístics
 \gathertags % per forward reference expex
 \lingset{aboveglftskip=-.2ex,interpartskip=\baselineskip} % per treure l'espai entre glossa i traducció
-%\usepackage{leipzig} %glossari automàtic
-%\makeglossaries
+\usepackage{leipzig} %glossari automàtic
+\makeglossaries
 
 %\usepackage{longtable}
 \usepackage[table,xcdraw]{xcolor}
@@ -44,7 +44,7 @@ singlelinecheck=false]{caption}
 
 \maketitle
 
-\noindent The following is a preliminary sketch on the morphosyntax of Hewa\footnote{I will provide a full list of glossing  abbreviations in the final version of this sketch.}. This sketch is incomplete; it does not contain certain aspects of the grammar which I have not had time to analyze or which I have not collected data on as of the writing of the present sketch.
+\noindent The following is a preliminary sketch on the morphosyntax of Hewa \footnote{The following abbreviations have been used in this sketch: \printglossaries}. This sketch is incomplete; it does not contain certain aspects of the grammar which I have not had time to analyze or which I have not collected data on as of the writing of the present sketch.
 
 \section{The noun phrase}\label{sec:nphr}
 
@@ -73,14 +73,14 @@ In pronominal phrases, the possessive marker appears on the pronoun, as in (\get
 \a<posspron1sg> %% First part with a tag
 \begingl %% Start glosses
 \gla Lima a'u-n blara//
-\glb hand 1\textsc{sg}-\textsc{poss} hurt//
+\glb hand {\First{}\Sg{}}-\Poss{} hurt//
 \glft `My hand hurts'//
 \endgl
 
 \a<posspron3sg> %% Second part
 \begingl %% start glosses
 \gla Ahu nimu-n gëran wëngi golo'//
-\glb dog 3\textsc{sg}-\textsc{poss} bark loudly very//
+\glb dog \Third{}\Sg{}-\Poss{} bark loudly very//
 \glft `His dog barks very loudly'// 
 \endgl
 \xe
@@ -136,7 +136,7 @@ As mentioned in section \ref{sec:nphr.intr}, nouns in Hewa are not marked for ca
 \ex<trwordord>
 \begingl %% start glosses
 \gla A'u lapot manu' 'ia//
-\glb \textsc{1sg} hit chicken \textsc{def}//
+\glb \First{}\Sg{} hit chicken \textsc{def}//
 \glft `I hit the chicken' // 
 \endgl
 \xe
@@ -152,7 +152,7 @@ As mentioned in section \ref{sec:nphr.intr}, nouns in Hewa are not marked for ca
 \a<stat> %% Second part
 \begingl %% start glosses
 \gla A'u tëri//
-\glb \textsc{1sg} sit.\textsc{1sg}//
+\glb \First{}\Sg{} sit.\First{}\Sg//
 \glft `I sit'// 
 \endgl
 \xe
@@ -162,7 +162,7 @@ In ditransitive clauses the benefactor, which is not marked in any particular wa
 \ex<ditrwordord>
 \begingl %% start glosses
 \gla A'u bëli Saskia buku 'ia//
-\glb \textsc{1sg} give Saskia book \textsc{def}//
+\glb \First{}\Sg{} give Saskia book \textsc{def}//
 \glft `I give Saskia the book' // 
 \endgl
 \xe 
@@ -177,21 +177,21 @@ Intransitive verbs can change its valency, that is, be made transitives, with th
 \a<mate> %% First part with a tag
 \begingl %% Start glosses
 \gla A'u bëli mate manu''ia//
-\glb \textsc{1sg} give die chicken \textsc{def}//
+\glb \First{}\Sg{} give die chicken \textsc{def}//
 \glft `I kill the chicken'//
 \endgl
 
 \a<ga> %% Second part
 \begingl %% start glosses
 \gla A'u bëli ga manu''ia//
-\glb \textsc{1sg} give eat chicken \textsc{def}//
+\glb  \First{}\Sg{} give eat chicken \textsc{def}//
 \glft `I feed the chicken'// 
 \endgl
 
 \a<du'e'> %% Second part
 \begingl %% start glosses
 \gla A’u bëli {dedi nurak} ‘ia du’e’ ‘ia tepi ‘ia//
-\glb \textsc{1sg} give baby \textsc{def} lie \textsc{LOC} cot \textsc{def}//
+\glb \First{}\Sg{} give baby \textsc{def} lie \textsc{LOC} cot \textsc{def}//
 \glft `I put the baby to sleep on the bed' (lit. `I give the baby lying on the bed')// 
 \endgl
 \xe
@@ -229,7 +229,7 @@ Equational clauses are created by using a subject followed by its attribute, wit
 \ex<attrprep>
 \begingl %% start glosses
 \gla A'u 'ora nimu//
-\glb \textsc{1sg} with \textsc{3sg}//
+\glb {\First{}\Sg{}} with \textsc{3sg}//
 \glft `I am with him/her' // 
 \endgl
 \xe 
@@ -263,7 +263,7 @@ While no verbs inflect for tense or mood, there is a certain subset of verbs tha
 \begin{tabular}{@{}llll@{}}
 \toprule
 {\color[HTML]{6665CD} }                               & {\color[HTML]{6665CD} }                        & {\color[HTML]{00D2CB} \textsc{1pl.excl}} & {\color[HTML]{00D2CB} gita'} \\
-\multirow{-2}{*}{{\color[HTML]{6665CD} \textsc{1sg}}} & \multirow{-2}{*}{{\color[HTML]{6665CD} 'ita'}} & {\color[HTML]{6665CD} \textsc{1pl.incl}} & {\color[HTML]{6665CD} 'ita'} \\
+\multirow{-2}{*}{{\color[HTML]{6665CD} \First{}\Sg}} & \multirow{-2}{*}{{\color[HTML]{6665CD} 'ita'}} & {\color[HTML]{6665CD} \textsc{1pl.incl}} & {\color[HTML]{6665CD} 'ita'} \\
 {\color[HTML]{00D2CB} \textsc{2sg}}                   & {\color[HTML]{00D2CB} gita'}                   & {\color[HTML]{6665CD} \textsc{2pl}}      & {\color[HTML]{6665CD} 'ita'} \\
 {\color[HTML]{00D2CB} \textsc{3sg}}                   & {\color[HTML]{00D2CB} gita'}                   & {\color[HTML]{6665CD} \textsc{3pl}}      & {\color[HTML]{6665CD} 'ita'} \\ \bottomrule
 \end{tabular}
@@ -278,7 +278,7 @@ There is also one verb attested so far which appears to be completely irregular 
 \label{tab:goa}
 \begin{tabular}{@{}llll@{}}
 \toprule
-\multirow{2}{*}{\textsc{1sg}} & \multirow{2}{*}{\textit{'oa}} & \textsc{1pl.excl} & \textit{gea} \\
+\multirow{2}{*}{\First{}\Sg} & \multirow{2}{*}{\textit{'oa}} & \textsc{1pl.excl} & \textit{gea} \\
                               &                               & \textsc{1pl.incl} & \textit{'ea} \\
 \textsc{2sg}                  & \textit{goa}                  & \textsc{2pl}      & \textit{'a}  \\
 \textsc{3sg}                  & \textit{'ea}                  & \textsc{3pl}      & \textit{'a}  \\ \bottomrule
