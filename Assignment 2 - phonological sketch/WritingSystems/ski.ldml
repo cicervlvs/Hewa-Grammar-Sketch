@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ldml>
+	<identity>
+		<version number="" />
+		<generation date="2021-10-30T16:12:58Z" />
+		<language type="ski" />
+	</identity>
+	<characters>
+		<exemplarCharacters>['\u014B\u0278\u027E\u0294\u02C8\u02CC\u02D0\u03B2{e\u0308}]</exemplarCharacters>
+	</characters>
+	<layout>
+		<orientation>
+			<characterOrder>left-to-right</characterOrder>
+		</orientation>
+	</layout>
+	<collations>
+		<defaultCollation>standard</defaultCollation>
+		<collation type="standard" />
+	</collations>
+	<special xmlns:sil="urn://www.sil.org/ldml/0.1">
+		<sil:external-resources>
+			<sil:font name="Charis SIL" types="default" />
+		</sil:external-resources>
+	</special>
+</ldml>

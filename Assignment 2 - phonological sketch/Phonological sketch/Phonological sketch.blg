@@ -1,0 +1,9 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'Phonological sketch.blg'
+[172] biber-MSWIN64:340> INFO - === 
+[233] Biber.pm:415> INFO - Reading 'Phonological sketch.bcf'
+[450] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[457] Utils.pm:395> WARN - The file 'Phonological sketch.bcf' does not contain any citations!
+[475] bbl.pm:654> INFO - Writing 'Phonological sketch.bbl' with encoding 'UTF-8'
+[476] bbl.pm:757> INFO - Output to Phonological sketch.bbl
+[476] Biber.pm:128> INFO - WARNINGS: 1

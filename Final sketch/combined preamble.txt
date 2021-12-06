@@ -1,0 +1,35 @@
+\documentclass{article}
+
+\author{Alejandro García Matarredona}
+\title{A Phonological Sketch of Hewa}
+
+\usepackage[american]{babel}
+%\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english=american]{csquotes}
+
+\usepackage[style=apa, backend=biber, natbib=true]{biblatex}
+\addbibresource{C:/Users/aleja/Bibtex/library.bib}
+
+\usepackage[american]{varioref}
+\usepackage{tgtermes} %times font
+\usepackage[T1]{tipa} %notació fonètica IPA
+\usepackage{linguex} %exemples lingüístics
+\usepackage{multirow} %taules
+
+\usepackage{titlesec}
+\usepackage{titletoc}
+\setcounter{secnumdepth}{5}
+\setcounter{tocdepth}{5}
+
+\titleformat{\paragraph} [hang] {\normalfont\normalsize\bfseries} {\theparagraph} {1em} {}
+
+
+\usepackage{titling}
+\setlength{\droptitle}{-10em} 
+
+\usepackage{subfiles}
+
+\begin{document}
+
+\maketitle

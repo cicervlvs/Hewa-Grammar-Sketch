@@ -1,0 +1,28 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'Assignment 1.blg'
+[235] biber-MSWIN64:340> INFO - === 
+[295] Biber.pm:415> INFO - Reading 'Assignment 1.bcf'
+[491] Biber.pm:952> INFO - Found 5 citekeys in bib section 0
+[509] Biber.pm:4340> INFO - Processing section 0
+[527] Biber.pm:4531> INFO - Looking for bibtex format file 'C:/Users/aleja/Bibtex/library.bib' for section 0
+[648] bibtex.pm:1689> INFO - LaTeX decoding ...
+[17642] bibtex.pm:1494> INFO - Found BibTeX data source 'C:/Users/aleja/Bibtex/library.bib'
+[17658] Utils.pm:395> WARN - Duplicate entry key: 'jankoster2009' in file 'C:/Users/aleja/Bibtex/library.bib', skipping ...
+[17661] Utils.pm:395> WARN - Duplicate entry key: 'writefile' in file 'C:/Users/aleja/Bibtex/library.bib', skipping ...
+[17670] Utils.pm:395> WARN - Duplicate entry key: 'writefile' in file 'C:/Users/aleja/Bibtex/library.bib', skipping ...
+[17674] Utils.pm:395> WARN - Duplicate entry key: 'writefile' in file 'C:/Users/aleja/Bibtex/library.bib', skipping ...
+[17684] Utils.pm:395> WARN - Duplicate entry key: 'writefile' in file 'C:/Users/aleja/Bibtex/library.bib', skipping ...
+[17690] Utils.pm:395> WARN - Duplicate entry key: 'writefile' in file 'C:/Users/aleja/Bibtex/library.bib', skipping ...
+[17791] Utils.pm:395> WARN - BibTeX subsystem: C:\Users\aleja\AppData\Local\Temp\biber_tmp_pmBE\7f56027f9015dc497dc7645faffbdd71_15428.utf8, line 6, warning: 172 characters of junk seen at toplevel
+[17793] Biber.pm:4531> INFO - Looking for bibtex format file 'misc.bib' for section 0
+[17876] bibtex.pm:1689> INFO - LaTeX decoding ...
+[17890] bibtex.pm:1494> INFO - Found BibTeX data source 'misc.bib'
+[17895] Utils.pm:395> WARN - legacy month field 'May' in entry 'klamer_2015' is not an integer - this will probably not sort properly.
+[17899] Utils.pm:395> WARN - legacy month field 'Jul' in entry 'fricke_2015' is not an integer - this will probably not sort properly.
+[17934] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[17934] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[17934] Biber.pm:4168> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[17934] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[17950] bbl.pm:654> INFO - Writing 'Assignment 1.bbl' with encoding 'UTF-8'
+[17955] bbl.pm:757> INFO - Output to Assignment 1.bbl
+[17956] Biber.pm:128> INFO - WARNINGS: 9

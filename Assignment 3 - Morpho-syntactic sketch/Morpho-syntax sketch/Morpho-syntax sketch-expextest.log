@@ -1,0 +1,397 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.7) (preloaded format=xelatex 2021.9.17)  6 DEC 2021 11:47
+entering extended mode
+**"./Morpho-syntax sketch-expextest.tex"
+(Morpho-syntax sketch-expextest.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-07-12>
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count178
+\c@section=\count179
+\c@subsection=\count180
+\c@subsubsection=\count181
+\c@paragraph=\count182
+\c@subparagraph=\count183
+\c@figure=\count184
+\c@table=\count185
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/06/28 3.61 The Babel package
+
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/06/28 3.61 Babel common definitions
+\babel@savecnt=\count186
+\U@D=\dimen139
+\l@unhyphenated=\language79
+
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/generic/babel\xebabel.def
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def))
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count187
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\american.
+ldf
+Language: american 2017/06/06 v3.3r English support from the babel system
+
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
+df
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+))) (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
+2.
+
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
+
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count188
+)
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+\csq@reset=\count189
+\csq@gtype=\count190
+\csq@glevel=\count191
+\csq@qlevel=\count192
+\csq@maxlvl=\count193
+\csq@tshold=\count194
+\csq@ltx@everypar=\toks17
+
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
+File: csquotes.cfg 
+)
+Package csquotes Info: Redefining alias 'english' -> 'english/american'.
+) (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/preprint\fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip49
+) (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/tools\varioref.sty
+Package: varioref 2020/08/11 v1.6e package for extended references (FMi)
+\c@vrcnt=\count195
+)
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\tgtermes.sty
+Package: tgtermes 2009/09/27 v1.2 TeX Gyre Termes as default roman family
+
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))) (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/tipa\tipa.sty
+Package: tipa 2002/08/08 TIPA version 1.1
+
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/tipa\t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+LaTeX Font Info:    Trying to load font information for T1+qtm on input line 31
+6.
+
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\t1qtm.fd
+File: t1qtm.fd 2009/09/25 v1.2 font definition file for T1/qtm
+)
+
+LaTeX Font Warning: Font shape `T1/qtm/m/sl' in size <12> not available
+(Font)              Font shape `T1/qtm/m/it' tried instead on input line 316.
+
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 3
+57.
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
+File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))))
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/expex\expex.sty
+Package: expex 5/1/2017 v5.1b LaTex wrapper for expex.tex (JF)
+
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count196
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/generic/expex\expex.tex
+File: expex.tex 5/25/2017 v5.1b ExPex linguistics example formatter (JF)
+\ep@dima=\dimen140
+\ep@dimb=\dimen141
+\ep@dimc=\dimen142
+\ep@cnta=\count197
+\epc@b=\count198
+\excnt=\count199
+\numbox=\box50
+\epd@numright=\dimen143
+\pexcnt=\count266
+\epd@labelleft=\dimen144
+\epd@labelright=\dimen145
+\epd@textleft=\dimen146
+\epd@preambleleft=\dimen147
+\epd@sampleexnowidth=\dimen148
+\ep@everylabel=\toks20
+\exnobox=\box51
+\ling@tagsfile=\write3
+\ling@tagsin=\read3
+\glstrutbox=\box52
+\ep@cascadeindent=\dimen149
+\ep@hangindentamount=\dimen150
+\ep@cascadecount=\count267
+\gltoks@a=\toks21
+\gltoks@b=\toks22
+\glw@maxht=\dimen151
+\glw@maxdp=\dimen152
+\@itemtype=\count268
+\gl@maxdplast=\dimen153
+\gltoks@sofar=\toks23
+\gltoks@every=\toks24
+\gltoks@next=\toks25
+\debug@glword=\box53
+\@glaparsestate=\count269
+\glwcascade@pshapeindent=\dimen154
+\glwcascade@pshapelinewd=\dimen155
+\ssleftwd=\dimen156
+\ssrightwd=\dimen157
+))
+(Morpho-syntax sketch-expextest-tags.tex)
+\openout3 = `"Morpho-syntax sketch-expextest-tags.tex"'.
+
+
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+) (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen158
+\ar@mcellbox=\box54
+\extrarowheight=\dimen159
+\NC@list=\toks26
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box55
+)
+\everycr=\toks27
+\minrowclearance=\skip52
+)
+\rownum=\count270
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen160
+\lightrulewidth=\dimen161
+\cmidrulewidth=\dimen162
+\belowrulesep=\dimen163
+\belowbottomsep=\dimen164
+\aboverulesep=\dimen165
+\abovetopsep=\dimen166
+\cmidrulesep=\dimen167
+\cmidrulekern=\dimen168
+\defaultaddspace=\dimen169
+\@cmidla=\count271
+\@cmidlb=\count272
+\@aboverulesep=\dimen170
+\@belowrulesep=\dimen171
+\@thisruleclass=\count273
+\@lastruleclass=\count274
+\@thisrulewidth=\dimen172
+)
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip53
+\multirow@cntb=\count275
+\multirow@dima=\skip54
+\bigstrutjot=\dimen173
+)
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen174
+\captionmargin@=\dimen175
+\captionwidth=\dimen176
+\caption@tempdima=\dimen177
+\caption@indent=\dimen178
+\caption@parindent=\dimen179
+\caption@hangindent=\dimen180
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count276
+\c@continuedfloat=\count277
+)
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box56
+\beforetitleunit=\skip55
+\aftertitleunit=\skip56
+\ttl@plus=\dimen181
+\ttl@minus=\dimen182
+\ttl@toksa=\toks28
+\titlewidth=\dimen183
+\titlewidthlast=\dimen184
+\titlewidthfirst=\dimen185
+)
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titletoc.sty
+Package: titletoc 2021/07/05 v2.14 TOC entries
+\ttl@leftsep=\dimen186
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'american'.
+
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xet
+ex.def
+File: l3backend-xetex.def 2021-07-12 L3 backend support: XeTeX
+ ()
+\c__kernel_sys_dvipdfmx_version_int=\count278
+\l__color_backend_stack_int=\count279
+\g__color_backend_stack_int=\count280
+\g__graphics_track_int=\count281
+\l__pdf_internal_box=\box57
+\g__pdf_backend_object_int=\count282
+\g__pdf_backend_annotation_int=\count283
+\g__pdf_backend_link_int=\count284
+) (Morpho-syntax sketch-expextest.aux)
+\openout1 = `"Morpho-syntax sketch-expextest.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4
+3.
+
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 43.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 43
+.
+
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/tipa\t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 43.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 45.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 45.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 47.
+ [1
+
+]
+[2] [3]
+Missing character: There is no ’ in font ec-qtmri!
+Missing character: There is no ‘ in font ec-qtmri!
+Missing character: There is no ’ in font ec-qtmri!
+Missing character: There is no ’ in font ec-qtmri!
+Missing character: There is no ‘ in font ec-qtmri!
+Missing character: There is no ‘ in font ec-qtmri!
+Missing character: There is no ’ in font ec-qtmri!
+Missing character: There is no ‘ in font ec-qtmri!
+Missing character: There is no ’ in font ec-qtmri!
+Missing character: There is no ’ in font ec-qtmri!
+Missing character: There is no ‘ in font ec-qtmri!
+Missing character: There is no ‘ in font ec-qtmri!
+ [4]
+Missing character: There is no ‘ in font ec-qtmri!
+Missing character: There is no ‘ in font ec-qtmri!
+LaTeX Font Info:    Trying to load font information for T3+qtm on input line 25
+8.
+LaTeX Font Info:    No file T3qtm.fd. on input line 258.
+
+
+LaTeX Font Warning: Font shape `T3/qtm/m/n' undefined
+(Font)              using `T3/cmr/m/n' instead
+(Font)              for symbol `textglotstop' on input line 258.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5] [6] [7] [8] [9] (Morpho-syntax sketch-expextest.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 7231 strings out of 411279
+ 106866 string characters out of 2829030
+ 454150 words of memory out of 3000000
+ 27599 multiletter control sequences out of 15000+600000
+ 450550 words of font info for 56 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 69i,11n,117p,1126b,297s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on Morpho-syntax sketch-expextest.pdf (9 pages).

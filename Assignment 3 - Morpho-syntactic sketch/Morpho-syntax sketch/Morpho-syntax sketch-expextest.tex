@@ -1,0 +1,489 @@
+%begin{preamble}
+\documentclass[12pt]{article}
+
+\author{Alejandro García Matarredona}
+\title{A Morpho-Syntactic Sketch of Hewa}
+\date{December 6, 2021}
+
+\usepackage[american]{babel}
+%\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english=american]{csquotes}
+
+\usepackage{fullpage} %marges d'una polzada
+
+\usepackage[american]{varioref}
+\usepackage{tgtermes} %times font
+\usepackage[T1]{tipa} %notació fonètica IPA
+\usepackage{expex} %exemples lingüístics
+\gathertags % per forward reference expex
+\lingset{aboveglftskip=-.2ex,interpartskip=\baselineskip} % per treure l'espai entre glossa i traducció
+%\usepackage{leipzig} %glossari automàtic
+%\makeglossaries
+
+%\usepackage{longtable}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{booktabs}
+\usepackage{multirow} %taules
+\usepackage[
+singlelinecheck=false]{caption}
+
+\usepackage{titlesec}
+\usepackage{titletoc}
+\setcounter{secnumdepth}{5}
+\setcounter{tocdepth}{5}
+
+\titleformat{\paragraph} [hang] {\normalfont\normalsize\bfseries} {\theparagraph} {1em} {}
+
+%\usepackage{titling}
+%\setlength{\droptitle}{-10em} 
+
+%\end{preamble}
+
+\begin{document}
+
+\maketitle
+
+\noindent The following is a preliminary sketch on the morphosyntax of Hewa\footnote{I will provide a full list of glossing  abbreviations in the final version of this sketch.}. This sketch is incomplete; it does not contain certain aspects of the grammar which I have not had time to analyze or which I have not collected data on as of the writing of the present sketch.
+
+\section{The noun phrase}\label{sec:nphr}
+
+\subsection{Introduction}\label{sec:nphr.intr}
+
+Nouns in Hewa are not marked for number, noun class, or case. The noun can appear as the head of the noun phrase followed by the article or by a numeral. It is not yet clear whether the determiner follows or precedes the numeral. Adjectives follow the noun. Thus, a canonical, non-possessed NP is formed as shown in (\getfullref{nounphrase}).
+
+\ex<nounphrase>
+$[\textsc{n adj dem/num}]$
+\xe
+
+%Prepositions may precede the noun to make a prepositional phrase. So far, all adpositions attested so far are prepositions; that is, they precede the noun.
+
+
+\subsection{Number}
+
+\subsection{Possession}
+
+\subsubsection{Nominal possession}
+
+There are two different strategies for expressing nominal possession in Hewa. They both implicate the use of the possessive marker \textit{-n}.
+
+In pronominal phrases, the possessive marker appears on the pronoun, as in (\getfullref{posspron}).
+
+\pex<posspron> %% "main" example needs a tag
+\a<posspron1sg> %% First part with a tag
+\begingl %% Start glosses
+\gla Lima a'u-n blara//
+\glb hand 1\textsc{sg}-\textsc{poss} hurt//
+\glft `My hand hurts'//
+\endgl
+
+\a<posspron3sg> %% Second part
+\begingl %% start glosses
+\gla Ahu nimu-n gëran wëngi golo'//
+\glb dog 3\textsc{sg}-\textsc{poss} bark loudly very//
+\glft `His dog barks very loudly'// 
+\endgl
+\xe
+
+When the possessor is a full nominal, two different strategies are possible: the possessive marker can go either on an extra pronominalized possessor, as in (\getfullref{possnom.posspron}), or on the possessed noun, as in (\getfullref{possnom.posshead}).
+
+\pex<possnom> %% "main" example needs a tag
+\a<posspron> %% First part
+\begingl %% start glosses
+\gla Alejandro$_i$ lima nimu$_i$-n blara//
+\glb Alejandro hand 3\textsc{sg}-\textsc{poss} hurt//
+\glft `Alejandro's hand hurts' // 
+\endgl
+
+\a<posshead> %% Second part
+\begingl %% start glosses
+\gla Alejandro lima-n blara//
+\glb Alejandro hand-\textsc{poss} hurt//
+\glft `Alejandro's hand hurts' // 
+\endgl
+\xe
+
+The latter strategy, that of adding the possessive marker on the possessed noun, is phonologically constrained: only  nouns ending in a vowel or a nasal may take a possessive suffix. In the latter case, the possessive marker is assimilated to the nasal, as in (\getfullref{assim}). For all other nouns, possession is marked by adding a third person pronoun with the possessive marker, as seen in (\getfullref{cantposshead}): \textit{bapa'} `father' ends in a glottal stop, and thus cannot take the possessive suffix.
+
+\ex<assim> %% "main" example needs a tag
+\begingl %% start glosses
+\gla Meong-(n) kekor blara //
+\glb cat-(\textsc{poss}) tail hurts//
+\glft `The cat's tail hurts' // 
+\endgl
+\xe
+
+\ex<cantposshead>
+\begingl %% start glosses
+\gla Alejandro bapa' klian 'ia uma//
+\glb Alejandro father work \textsc{loc} rice.field//
+\glft `Alejandro's father works in the rice field' // 
+\endgl
+\xe
+
+\subsubsection{Predicative possession}
+
+\subsection{Numerals}
+
+\subsection{Comparisons}
+
+\section{Basic clausal syntax}
+
+\subsection{Constituent order}
+
+As mentioned in section \ref{sec:nphr.intr}, nouns in Hewa are not marked for case. Argument structure is apparently determined by word order, which is AVP in transitive clauses, as in (\getfullref{trwordord}) and SV in intransitive clauses, regardless of aktionsart of the verb, as in (\getfullref{intrwordord}) \footnote{In this sketch grammar I am using the terms \textit{A} for the grammatical subject of a transitive clause, \textit{P} for the grammatical object of a transitive clause, and \textit{S} for the subject of an intransitive clause}.
+
+\ex<trwordord>
+\begingl %% start glosses
+\gla A'u lapot manu' 'ia//
+\glb \textsc{1sg} hit chicken \textsc{def}//
+\glft `I hit the chicken' // 
+\endgl
+\xe
+
+\pex<intrwordord> %% "main" example needs a tag
+\a<act> %% First part with a tag
+\begingl %% Start glosses
+\gla 'Au ulun //
+\glb \textsc{2sg} speak//
+\glft `You speak'//
+\endgl
+
+\a<stat> %% Second part
+\begingl %% start glosses
+\gla A'u tëri//
+\glb \textsc{1sg} sit.\textsc{1sg}//
+\glft `I sit'// 
+\endgl
+\xe
+
+In ditransitive clauses the benefactor, which is not marked in any particular way, appears before P, as in (\getfullref{ditrwordord}).
+
+\ex<ditrwordord>
+\begingl %% start glosses
+\gla A'u bëli Saskia buku 'ia//
+\glb \textsc{1sg} give Saskia book \textsc{def}//
+\glft `I give Saskia the book' // 
+\endgl
+\xe 
+
+In main clauses, the subject, either an independent pronoun or a full noun phrase, has to always be pronounced. Sentences without an explicit subject, even when the verb is inflected for person (see Section \ref{sec:conj}).
+
+\subsection{Valency changes: causative constructions}
+
+Intransitive verbs can change its valency, that is, be made transitives, with the use of the verb \textit{bëli} `to give', which forms together with the main verb a causative construction. This is illustrated in (\getfullref{caus}).
+
+\pex<caus> %% "main" example needs a tag
+\a<mate> %% First part with a tag
+\begingl %% Start glosses
+\gla A'u bëli mate manu''ia//
+\glb \textsc{1sg} give die chicken \textsc{def}//
+\glft `I kill the chicken'//
+\endgl
+
+\a<ga> %% Second part
+\begingl %% start glosses
+\gla A'u bëli ga manu''ia//
+\glb \textsc{1sg} give eat chicken \textsc{def}//
+\glft `I feed the chicken'// 
+\endgl
+
+\a<du'e'> %% Second part
+\begingl %% start glosses
+\gla A’u bëli {dedi nurak} ‘ia du’e’ ‘ia tepi ‘ia//
+\glb \textsc{1sg} give baby \textsc{def} lie \textsc{LOC} cot \textsc{def}//
+\glft `I put the baby to sleep on the bed' (lit. `I give the baby lying on the bed')// 
+\endgl
+\xe
+
+\subsection{Equational clauses}
+
+Equational clauses are created by using a subject followed by its attribute, with no copula present. (\getfullref{attrnoun}) is an example of a nominal attribute. (\getfullref{attradj}) is an example of an adjectival attribute, and (\getfullref{attrprep}) is an example of a prepositional attribute. 
+
+%No nominal attributes have been collected as of the writing of the current version of this sketch. When asked to say the sentence `we are fishermen' in Hewa, the language consultant gave the sentence seen in (\getfullref{noattrnoun}), in which the profession of a person (`fisherman') is given expressed as the activity he or she does habitually. This of course does not imply that Hewa does not have nominal attributes, but it might hint at some restrictions regarding what kind of equational clauses are possible.
+
+%\ex<noattrnoun>
+%\begingl %% start glosses
+%\gla 'ami bano noka//
+%\glb \textsc{1pl.excl} go.\textsc{1pl.excl} fish//
+%\glft `We are fishermen' (lit. 'we go fishing') // 
+%\endgl
+%\xe 
+
+\ex<attrnoun>
+\begingl %% start glosses
+\gla nimun e'on bi'an du'at iwa//
+\glb \textsc{3sg} \textsc{neg} person woman \textsc{neg}//
+\glft `He is not a woman' // 
+\endgl
+\xe 
+
+\ex<attradj>
+\begingl %% start glosses
+\gla {dedi du'at} 'ia gëhar//
+\glb woman \textsc{def} tall//
+\glft `The woman is tall' // 
+\endgl
+\xe 
+
+\ex<attrprep>
+\begingl %% start glosses
+\gla A'u 'ora nimu//
+\glb \textsc{1sg} with \textsc{3sg}//
+\glft `I am with him/her' // 
+\endgl
+\xe 
+
+\subsection{Existential clauses}
+Existential constructions are formed with the verbs \textit{noran} `to have, to exist', as illustrated in (\getfullref{attrhave}), and \textit{'ëra} `to stand', as seen in (\getfullref{attrstand}).
+
+\ex<attrhave>
+\begingl %% start glosses
+\gla Noran napun//
+\glb exist river//
+\glft `There is a river' // 
+\endgl
+\xe 
+
+\ex<attrstand>
+\begingl %% start glosses
+\gla Saskia gëra ‘ia kamar higun //
+\glb Saskia stand.\textsc{3sg} \textsc{def} room corner//
+\glft `Saskia is in the corner of the room' // 
+\endgl
+\xe 
+
+\subsection{Verb conjugation by person}\label{sec:conj}
+
+While no verbs inflect for tense or mood, there is a certain subset of verbs that do inflect for person, namely verbs that in their first person singular form begin with a voiceless plosive followed by a vowel. In this type of verbs, the initial voiceless plosive alternates with its voiced counterpart (in the case of the glottal stop /\textglotstop/, it alternates with the voiced velar plosive /g/, it being its closest voiced counterpart). In this paradigm, first person singular, first person plural inclusive, and second and third person plural forms are pronounced with the voiceless plosive, and second and third person singular and first person plural exclusive forms are pronounced with the voiced plosive. Table \ref{tab:par} illustrates this grouping with the example of the verb \textit{'ita'} `to see'. Some other verbs that follow this paradigm, given here in the first person singular (unvoiced) form, are \textit{tëri} `to sit', \textit{pano} `to walk', \textit{tëna} `to make', \textit{'ëra} `to stand', and \textit{'aro} `to scratch'.
+
+\begin{table}[h]
+\caption{Conjugation of the verb \textit{'ita'} `to see'. Conjugation forms are grouped by color.}
+\label{tab:par}
+\begin{tabular}{@{}llll@{}}
+\toprule
+{\color[HTML]{6665CD} }                               & {\color[HTML]{6665CD} }                        & {\color[HTML]{00D2CB} \textsc{1pl.excl}} & {\color[HTML]{00D2CB} gita'} \\
+\multirow{-2}{*}{{\color[HTML]{6665CD} \textsc{1sg}}} & \multirow{-2}{*}{{\color[HTML]{6665CD} 'ita'}} & {\color[HTML]{6665CD} \textsc{1pl.incl}} & {\color[HTML]{6665CD} 'ita'} \\
+{\color[HTML]{00D2CB} \textsc{2sg}}                   & {\color[HTML]{00D2CB} gita'}                   & {\color[HTML]{6665CD} \textsc{2pl}}      & {\color[HTML]{6665CD} 'ita'} \\
+{\color[HTML]{00D2CB} \textsc{3sg}}                   & {\color[HTML]{00D2CB} gita'}                   & {\color[HTML]{6665CD} \textsc{3pl}}      & {\color[HTML]{6665CD} 'ita'} \\ \bottomrule
+\end{tabular}
+\end{table}
+
+There is also one verb attested so far which appears to be completely irregular with regards to its person conjugation: \textit{'oa} `to eat'. Table \ref{tab:goa} shows its paradigm.
+
+%The verb \textit{tinu} `to drink' is also irregular
+
+\begin{table}[h]
+\caption{Conjugation of the verb \textit{'oa} `to eat', according to person.}
+\label{tab:goa}
+\begin{tabular}{@{}llll@{}}
+\toprule
+\multirow{2}{*}{\textsc{1sg}} & \multirow{2}{*}{\textit{'oa}} & \textsc{1pl.excl} & \textit{gea} \\
+                              &                               & \textsc{1pl.incl} & \textit{'ea} \\
+\textsc{2sg}                  & \textit{goa}                  & \textsc{2pl}      & \textit{'a}  \\
+\textsc{3sg}                  & \textit{'ea}                  & \textsc{3pl}      & \textit{'a}  \\ \bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Tense}
+
+Verbs in Hewa are not inflected by tense, so the time at which an action takes place is expressed syntactically.
+
+For past sentences, adverbs of time are used.
+
+Sentences with a future meaning seem to combine tense with mood, as the word \textit{ga'i}, presumably the same word as the modal verb \textit{ga'i}`want', is used, as seen in (\getfullref{futwant}). This construction is similar to the English future constructions with \textit{will}.
+
+\ex<futwant>
+\begingl %% start glosses
+\gla Nimu ga'i nani wahat//
+\glb \textsc{3sg} want swim tomorrow//
+\glft `He/she is going to swim tomorrow' // 
+\endgl
+\xe
+
+\subsection{Aspect marking by reduplication}
+
+Some verbs may be reduplicated to mark a continuous aspect. (examples)
+
+\subsection{Negation}\label{sec:neg}
+
+Predicative negation is expressed with the use of a double particle \textit{e'on ... iwa} wrapped around the verb, as shown in (\getfullref{normneg}-\getfullref{adjneg}).
+
+\ex<normneg>
+\begingl %% start glosses
+\gla Nimu e'on nani iwa//
+\glb \textsc{3sg} \textsc{neg} swim \textsc{neg}//
+\glft `He/she is not swimming' // 
+\endgl
+\xe
+
+\ex<adjneg>
+\begingl %% start glosses
+\gla {dedi du'at} 'ia e'on gëhar 'iwa//
+\glb womn \textsc{def} \textsc{neg} tall \textsc{neg}//
+\glft `The woman is not tall' // 
+\endgl
+\xe
+
+There seems to be a distinction between two types of existential negation. The first one, expressing the absence of something in a given place or at a given time, shown in (\getfullref{exneg}), uses the two particles referred to above. The second one, seen in (\getfullref{exneg2}), makes use only of the first particle \textit{e'on}, and seems to be used for expressing the nonexistence of an entity in the world.
+
+\ex<exneg>
+\begingl %% start glosses
+\gla E'on noran i'an iwa 'ia napun//
+\glb \textsc{neg} have fish \textsc{neg} \textsc{loc} river//
+\glft `There are no fish in the river' // 
+\endgl
+\xe
+
+\ex<exneg2>
+\begingl %% start glosses
+\gla Manu' meran e'on//
+\glb chicken red \textsc{neg}//
+\glft `There are no red chickens' (`red chickens do not exist' // 
+\endgl
+\xe
+
+Negative imperatives are expressed by preposing \textit{opo} to the verb, as illustrated in (\getfullref{negimp}). The verb is still, in the verbs which inflect for it, in the second person, as can be seen in (\getfullref{negimp.goa}).
+
+\pex<negimp> %% "main" example needs a tag
+\a<nani> %% First part with a tag
+\begingl %% Start glosses
+\gla Opo nani!//
+\glb \textsc{proh} swim//
+\glft `Don't swim!'//
+\endgl
+
+\a<goa> %% Second part
+\begingl %% start glosses
+\gla Opo goa!//
+\glb \textsc{proh} eat.\textsc{2sg}//
+\glft `Don't eat!'// 
+\endgl
+\xe
+
+\subsection{Questions}
+
+Polar questions seem to be expressed by simply changing the intonation of the sentence to a rising one, which peaks on the last stressed syllable, after which it drops slightly.
+
+In polar questions, the particle \textit{ko} may be added to express disbelief in the questioned proposition. An example of this is (\getfullref{ko}).
+
+\ex<ko>
+\begingl %% start glosses
+\gla Lëpo rimu-n gëte ko?//
+\glb house 3\textsc{pl}-\textsc{poss} big \textsc{disb}//
+\glft `Is their house actually big?' // 
+\endgl 
+\xe
+
+For open ended questions, interrogative pronouns are used. Thesemay appear at various points in the sentence. In fact, word order is flexible in this kind of questions, as exemplified in the variation in (\getfullref{qwordord}). This order is possibly subordinate to the structuring of the information within the sentence.
+
+\pex<qwordord> %% "main" example needs a tag
+\a<umur>
+\begingl %% start glosses
+\gla 'Umur meong 'au-n pira?//
+\glb age cat 2\textsc{sg}-\textsc{poss} how.many//
+\glft `What age is your cat?' // 
+\endgl 
+
+\a<goa> %% Second part
+\begingl %% start glosses
+\gla Meong 'au-n umur pira?//
+\glb cat \textsc{2sg}-\textsc{poss} age how.many//
+\glft `How old is your cat?'// 
+\endgl
+
+\a<goa> %% Second part
+\begingl %% start glosses
+\gla Umur pira meong 'aun?//
+\glb age how.many cat \textsc{2sg}-\textsc{poss}//
+\glft `How old is your cat?'// 
+\endgl
+\xe
+
+
+For questioning the identity of a person, the interrogative pronoun \textit{hai} `who' is used, as illustrated in (\getfullref{who}). So far only utterances where the subject is asked have been collected.
+
+\ex<who>
+\begingl %% start glosses
+\gla Hai pala' natar 'ia?//
+\glb who leader village \textsc{def}//
+\glft `Who is the head of the village?' //
+\endgl
+\xe
+
+%Questioned Ps?
+
+%Questioned possessors?	
+
+Inanimate entities are questioned with \textit{apa} `what', as illustrated in (\getfullref{what}).
+
+\ex<what>
+\begingl %% start glosses
+\gla 'au dëna apa? //
+\glb 2\textsc{sg} do what//
+\glft `What are you doing?' // 
+\endgl
+\xe
+
+
+Quantity is questioned with the pronoun \textit{pira} `how many/how much'.
+
+\ex<howmany>
+\begingl %% start glosses
+\gla Umur meong 'au-n pira?//
+\glb age cat 2\textsc{sg}-\textsc{poss} how.many//
+\glft `What age is your cat?' // 
+\endgl 
+\xe
+
+
+Places are questioned with the pronoun \textit{upa} `where', as illustrated in (\getfullref{where}).
+
+\ex<where>
+\begingl %% start glosses
+\gla Natar 'au-n upa? //
+\glb village \textsc{2sg}-\textsc{poss} where //
+\glft `Where is your village?' // 
+\endgl
+\xe 
+
+Manner is questioned with the composite pronoun \textit{ganu upan} `how', as seen in (\getfullref{qwordord}) above. This double term might be analyzable as `manner' + `where', as \textit{upan} bears resemblance to \textit{upa}, the pronoun exemplified in (\getfullref{where}) above. Nonetheless, the term for `manner' has not been obtained as of the writing of this sketch, and there is no evidence to support this analysis.
+%Might be analyzable into two lexical words
+
+Time is questioned with the composite pronoun \textit{rama pira} `when', as illustrated in (\getfullref{when}). This double pronoun might also be analyzable, this time as `time' + `how much/how many', but the term for `time' has not been obtained yet.
+
+\ex<when>
+\begingl %% start glosses
+\gla {rama pira} 'ia wulan pasak i'an //
+\glb when \textsc{LOC} month fish(\textsc{v}) fish(\textsc{n})//
+\glft `When is the fishing season?' // 
+\endgl
+\xe
+
+\subsection{Imperatives}
+
+Imperatives are expressed by using the second person form of the verb, without the pronoun, as in (\getfullref{imp}). Reduplication of the verb form seems to also be possible for some verbs, with rude connotations.
+
+\ex<imp>
+\begingl %% start glosses
+\gla Goa!//
+\glb eat.\textsc{2sg}//
+\glft `Eat!' //
+\endgl
+\xe
+
+\ex<impred>
+\begingl %% start glosses
+\gla Ninu\textasciitilde ninu!//
+\glb drink.\textsc{2sg}\textasciitilde \textsc{rdp}//
+\glft `Drink!' // 
+\endgl
+\xe
+
+Negative imperatives are formed with the particle \textit{opo}, as described and illustrated in Section \ref{sec:neg}.
+
+\section{Coordination and subordination}
+
+\section{Pronouns}
+
+\end{document}

@@ -1,0 +1,2187 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- See https://github.com/sillsdev/lift-standard for more information on the format used here. -->
+<lift producer="SIL.FLEx 9.0.17.455" version="0.13">
+<header>
+<ranges>
+<range id="dialect" href="file://C:/Users/aleja/Estudis/MA Linguistics/Field_Methods/Assignment 2 - phonological sketch/Assignment 2 - phonological sketch.lift-ranges"/>
+<range id="etymology" href="file://C:/Users/aleja/Estudis/MA Linguistics/Field_Methods/Assignment 2 - phonological sketch/Assignment 2 - phonological sketch.lift-ranges"/>
+<range id="grammatical-info" href="file://C:/Users/aleja/Estudis/MA Linguistics/Field_Methods/Assignment 2 - phonological sketch/Assignment 2 - phonological sketch.lift-ranges"/>
+<range id="lexical-relation" href="file://C:/Users/aleja/Estudis/MA Linguistics/Field_Methods/Assignment 2 - phonological sketch/Assignment 2 - phonological sketch.lift-ranges"/>
+<range id="note-type" href="file://C:/Users/aleja/Estudis/MA Linguistics/Field_Methods/Assignment 2 - phonological sketch/Assignment 2 - phonological sketch.lift-ranges"/>
+<range id="paradigm" href="file://C:/Users/aleja/Estudis/MA Linguistics/Field_Methods/Assignment 2 - phonological sketch/Assignment 2 - phonological sketch.lift-ranges"/>
+<range id="reversal-type" href="file://C:/Users/aleja/Estudis/MA Linguistics/Field_Methods/Assignment 2 - phonological sketch/Assignment 2 - phonological sketch.lift-ranges"/>
+<range id="semantic-domain-ddp4" href="file://C:/Users/aleja/Estudis/MA Linguistics/Field_Methods/Assignment 2 - phonological sketch/Assignment 2 - phonological sketch.lift-ranges"/>
+<range id="status" href="file://C:/Users/aleja/Estudis/MA Linguistics/Field_Methods/Assignment 2 - phonological sketch/Assignment 2 - phonological sketch.lift-ranges"/>
+<range id="users" href="file://C:/Users/aleja/Estudis/MA Linguistics/Field_Methods/Assignment 2 - phonological sketch/Assignment 2 - phonological sketch.lift-ranges"/>
+<range id="location" href="file://C:/Users/aleja/Estudis/MA Linguistics/Field_Methods/Assignment 2 - phonological sketch/Assignment 2 - phonological sketch.lift-ranges"/>
+<!-- The following ranges are produced by FieldWorks Language Explorer, and are not part of the LIFT standard. -->
+<range id="anthro-code" href="file://C:/Users/aleja/Estudis/MA Linguistics/Field_Methods/Assignment 2 - phonological sketch/Assignment 2 - phonological sketch.lift-ranges"/>
+<range id="translation-type" href="file://C:/Users/aleja/Estudis/MA Linguistics/Field_Methods/Assignment 2 - phonological sketch/Assignment 2 - phonological sketch.lift-ranges"/>
+<!-- The parts of speech are duplicated in another range because derivational affixes require a "From" PartOfSpeech as well as a "To" PartOfSpeech. -->
+<range id="from-part-of-speech" href="file://C:/Users/aleja/Estudis/MA Linguistics/Field_Methods/Assignment 2 - phonological sketch/Assignment 2 - phonological sketch.lift-ranges"/>
+<range id="morph-type" href="file://C:/Users/aleja/Estudis/MA Linguistics/Field_Methods/Assignment 2 - phonological sketch/Assignment 2 - phonological sketch.lift-ranges"/>
+<range id="exception-feature" href="file://C:/Users/aleja/Estudis/MA Linguistics/Field_Methods/Assignment 2 - phonological sketch/Assignment 2 - phonological sketch.lift-ranges"/>
+<range id="inflection-feature" href="file://C:/Users/aleja/Estudis/MA Linguistics/Field_Methods/Assignment 2 - phonological sketch/Assignment 2 - phonological sketch.lift-ranges"/>
+<range id="inflection-feature-type" href="file://C:/Users/aleja/Estudis/MA Linguistics/Field_Methods/Assignment 2 - phonological sketch/Assignment 2 - phonological sketch.lift-ranges"/>
+<range id="do-not-publish-in" href="file://C:/Users/aleja/Estudis/MA Linguistics/Field_Methods/Assignment 2 - phonological sketch/Assignment 2 - phonological sketch.lift-ranges"/>
+</ranges>
+<fields>
+<field tag="cv-pattern">
+<form lang="en"><text>This records the syllable pattern for a LexPronunciation in FieldWorks.</text></form>
+</field>
+<field tag="tone">
+<form lang="en"><text>This records the tone information for a LexPronunciation in FieldWorks.</text></form>
+</field>
+<field tag="comment">
+<form lang="en"><text>This records a comment (note) in a LexEtymology in FieldWorks.</text></form>
+</field>
+<field tag="import-residue">
+<form lang="en"><text>This records residue left over from importing a standard format file into FieldWorks (or LinguaLinks).</text></form>
+</field>
+<field tag="literal-meaning">
+<form lang="en"><text>This field is used to store a literal meaning of the entry.  Typically, this field is necessary only for a compound or an idiom where the meaning of the whole is different from the sum of its parts.</text></form>
+</field>
+<field tag="summary-definition">
+<form lang="en"><text>A summary definition (located at the entry level in the Entry pane) is a general definition summarizing all the senses of a primary entry. It has no theoretical value; its use is solely pragmatic.</text></form>
+</field>
+<field tag="scientific-name">
+<form lang="en"><text>This field stores the scientific name pertinent to the current sense.</text></form>
+</field>
+</fields>
+</header>
+<entry dateCreated="2021-10-08T10:26:35Z" dateModified="2021-10-26T17:32:01Z" id="raha_008ceb00-ab57-4570-b6fd-46d217f2cd7b" guid="008ceb00-ab57-4570-b6fd-46d217f2cd7b">
+<lexical-unit>
+<form lang="ski"><text>raha</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="2609589b-1b2c-4dd8-bf28-4d1dfdfb4e49">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>chest</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T11:12:14Z" dateModified="2021-10-26T17:32:01Z" id="muta_009da189-6278-4672-a80c-f1a744587c12" guid="009da189-6278-4672-a80c-f1a744587c12">
+<lexical-unit>
+<form lang="ski"><text>muta</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="9676b946-5bc5-4036-aa18-7b0990240dea">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>vomit</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T10:24:36Z" dateModified="2021-10-26T17:34:49Z" id="wulan_00d85147-fa7a-4dca-aeb1-83135a55d5b1" guid="00d85147-fa7a-4dca-aeb1-83135a55d5b1">
+<lexical-unit>
+<form lang="ski"><text>wulan</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="a5f9953f-2066-463f-8397-21152e790cca">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>moon</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T10:14:10Z" dateModified="2021-10-26T17:34:31Z" id="panolalan_00ec3006-dea6-4bdc-adb8-b810c2471232" guid="00ec3006-dea6-4bdc-adb8-b810c2471232">
+<lexical-unit>
+<form lang="ski"><text>panolalan</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<note>
+<form lang="en"><text>pano (go) + lalan (way/street)</text></form>
+</note>
+<sense id="87ea20de-86c0-41b4-8455-dcd479da4da0">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>walk</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T12:23:22Z" dateModified="2021-10-28T12:23:22Z" id="pano_01339d9b-564c-4b06-8e92-5b9cd8db4928" guid="01339d9b-564c-4b06-8e92-5b9cd8db4928">
+<lexical-unit>
+<form lang="ski"><text>pano</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="f8fb4d11-6062-40b7-a279-1a5f01affd90">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>walk</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T11:11:13Z" dateModified="2021-10-26T17:35:38Z" id="plëmet_0196875d-9d16-4235-ac8d-b666fccec703" guid="0196875d-9d16-4235-ac8d-b666fccec703">
+<lexical-unit>
+<form lang="ski"><text>plëmet</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="08eb664c-64fa-4782-99f6-048161a19fc9">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>suck</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T12:43:53Z" dateModified="2021-10-28T12:43:53Z" id="wu&apos;an_04786a30-1fc4-49c5-ab6d-bddc9a69db51" guid="04786a30-1fc4-49c5-ab6d-bddc9a69db51">
+<lexical-unit>
+<form lang="ski"><text>wu'an</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="f31bf6d2-b70b-4ccf-b514-d87d78b7b335">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>heart</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T12:28:37Z" dateModified="2021-10-28T12:35:25Z" id="&apos;ëla_05a914bc-52d0-477d-ad28-bdbe45660c46" guid="05a914bc-52d0-477d-ad28-bdbe45660c46">
+<lexical-unit>
+<form lang="ski"><text>'ëla</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<note>
+<form lang="en"><text>For objects</text></form>
+</note>
+<sense id="15018d79-b7f6-48a9-9b32-c52e03e1d330">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>fall</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T13:50:07Z" dateModified="2021-10-29T13:50:07Z" id="dëmen_05e3730e-db4a-42a4-a217-f7654951c2f5" guid="05e3730e-db4a-42a4-a217-f7654951c2f5">
+<lexical-unit>
+<form lang="ski"><text>dëmen</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="ae0ec1d1-a5b9-49a7-b56b-0f1c1473382a">
+<grammatical-info value="Adjective">
+</grammatical-info>
+<gloss lang="en"><text>correct</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T13:35:43Z" dateModified="2021-10-29T13:35:43Z" id="wangak_05fe78e7-ff0b-4348-989c-04106d7c5db3" guid="05fe78e7-ff0b-4348-989c-04106d7c5db3">
+<lexical-unit>
+<form lang="ski"><text>wangak</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="b094ed10-0dc0-4f56-8edb-97b9070d6eb4">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>flood</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T13:32:33Z" dateModified="2021-10-29T13:32:33Z" id="kera_065067c6-00ea-481c-ab3d-5883f45b3b0c" guid="065067c6-00ea-481c-ab3d-5883f45b3b0c">
+<lexical-unit>
+<form lang="ski"><text>kera</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="b273bbdc-415b-4bbd-a45a-61b981be36ae">
+<gloss lang="en"><text>sister's husband</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T11:12:59Z" dateModified="2021-10-26T17:34:10Z" id="bo_06ddf537-e0dd-4cc7-b7b0-fe07eb1a6408" guid="06ddf537-e0dd-4cc7-b7b0-fe07eb1a6408">
+<lexical-unit>
+<form lang="ski"><text>bo</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="b7e8ea08-8d5a-4df0-838f-c60e0b1c57b8">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>spit</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T11:24:59Z" dateModified="2021-10-26T17:35:38Z" id="plëka_0965b4a7-36a7-45c8-9cdf-232b2690c177" guid="0965b4a7-36a7-45c8-9cdf-232b2690c177">
+<lexical-unit>
+<form lang="ski"><text>plëka</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="cc17cf45-3c88-4011-91fe-f9c79fab90f6">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>cut</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T12:20:57Z" dateModified="2021-10-28T12:20:57Z" id="hika_0a944ad4-d616-486d-aa19-702c6ad7592e" guid="0a944ad4-d616-486d-aa19-702c6ad7592e">
+<lexical-unit>
+<form lang="ski"><text>hika</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="6570330c-c953-446a-b600-8bca8df5d5de">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>split</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T13:19:18Z" dateModified="2021-10-29T13:19:18Z" id="se2_0b43e7a0-7af7-4645-84d5-019ea4ab6f52" guid="0b43e7a0-7af7-4645-84d5-019ea4ab6f52" order="2">
+<lexical-unit>
+<form lang="ski"><text>se</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="a0b93118-5f84-4188-8056-fd8d334b7064">
+<grammatical-info value="Interjection">
+</grammatical-info>
+<gloss lang="en"><text>go away</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T10:52:52Z" dateModified="2021-10-29T12:51:34Z" id="rëmapira_0c967b51-2893-4579-a456-57313b4da98f" guid="0c967b51-2893-4579-a456-57313b4da98f">
+<lexical-unit>
+<form lang="ski"><text>rëmapira</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="e0afdbdb-1a71-4692-9bca-d82f60f35c3f">
+<grammatical-info value="Pronoun">
+</grammatical-info>
+<gloss lang="en"><text>when</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-01T15:09:14Z" dateModified="2021-10-26T17:32:01Z" id="tali_0cba517a-4701-4875-a8b0-bc4381e44394" guid="0cba517a-4701-4875-a8b0-bc4381e44394">
+<lexical-unit>
+<form lang="ski"><text>tali</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="2f37a0d3-828d-4811-9cbd-eda1ad81322a">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>rope</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T11:21:55Z" dateModified="2021-10-26T17:35:38Z" id="tu&apos;e gëpaŋ_0d58d4d7-ecd7-4e61-ab0a-b7df6c695e95" guid="0d58d4d7-ecd7-4e61-ab0a-b7df6c695e95">
+<lexical-unit>
+<form lang="ski"><text>tu'e gëpaŋ</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="phrase"/>
+<relation type="_component-lexeme" ref="">
+<trait  name="complex-form-type" value="Unspecified Complex Form"/>
+</relation>
+<sense id="75684c5e-3321-42df-9127-270aa7cb4a7c">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>sleep</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T11:17:33Z" dateModified="2021-10-26T17:35:38Z" id="rëna_0eebba60-55ec-478c-81a0-29a815af4a2e" guid="0eebba60-55ec-478c-81a0-29a815af4a2e">
+<lexical-unit>
+<form lang="ski"><text>rëna</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="9bf0b66c-cf27-4810-b806-1f42eecf3be8">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>see</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-01T14:57:25Z" dateModified="2021-10-26T17:34:10Z" id="ular_11df9f57-2076-4d01-b208-0aa193254a17" guid="11df9f57-2076-4d01-b208-0aa193254a17">
+<lexical-unit>
+<form lang="ski"><text>ular</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="e4b69173-1306-4981-bfee-ee085d00bb37">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>snake</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T10:17:05Z" dateModified="2021-10-26T17:35:38Z" id=" &apos;ëra_1472d1a8-55c9-481a-9aaa-759d6eed76c8" guid="1472d1a8-55c9-481a-9aaa-759d6eed76c8">
+<lexical-unit>
+<form lang="ski"><text> 'ëra</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="47fe63b4-2465-453e-b8ca-0869a08bca1e">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>stand</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-01T15:03:41Z" dateModified="2021-10-26T17:34:49Z" id="wuan_1571fe38-ae9c-4b73-a8bd-e3c2a2c47037" guid="1571fe38-ae9c-4b73-a8bd-e3c2a2c47037">
+<lexical-unit>
+<form lang="ski"><text>wuan</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="3ded3ba5-6516-486e-8d15-27cb90b05c52">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>fruit</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T11:15:34Z" dateModified="2021-10-26T17:35:16Z" id="&apos;ita&apos;_16773543-1789-416a-a8d3-598a84ec802a" guid="16773543-1789-416a-a8d3-598a84ec802a">
+<lexical-unit>
+<form lang="ski"><text>'ita'</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="7c9830b2-f3c3-4131-a2fc-13a7db1d1b14">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>see</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-01T14:52:53Z" dateModified="2021-10-26T17:35:16Z" id="i&apos;an_187adcdc-5a0b-47b8-aa0b-291908858762" guid="187adcdc-5a0b-47b8-aa0b-291908858762">
+<lexical-unit>
+<form lang="ski"><text>i'an</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="032875d9-266c-4ddb-90c8-f1d6101e309b">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>fish</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T13:17:28Z" dateModified="2021-10-28T13:18:20Z" id="me1_18806aac-d5e2-416e-b6a3-5f04ec5d63e2" guid="18806aac-d5e2-416e-b6a3-5f04ec5d63e2" order="1">
+<lexical-unit>
+<form lang="ski"><text>me</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="e84ee2bd-de23-437e-b25f-47214039ca0f">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>newborn</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T10:08:43Z" dateModified="2021-10-26T17:32:01Z" id="rimu_193de6c2-f775-4918-98bf-e8faa85c009d" guid="193de6c2-f775-4918-98bf-e8faa85c009d">
+<lexical-unit>
+<form lang="ski"><text>rimu</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="335a8f57-e43a-44fc-b754-66f98bbeb6b6" order="0">
+<grammatical-info value="Pronoun">
+</grammatical-info>
+<gloss lang="en"><text>you (pl.)</text></gloss>
+</sense>
+<sense id="cb3110e9-9811-4b57-84ab-1cfa440b2f4f" order="1">
+<grammatical-info value="Pronoun">
+</grammatical-info>
+<gloss lang="en"><text>they</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T13:16:46Z" dateModified="2021-10-29T13:16:46Z" id="gata&apos;_1a2368cc-7303-40cb-82f6-b27274210db5" guid="1a2368cc-7303-40cb-82f6-b27274210db5">
+<lexical-unit>
+<form lang="ski"><text>gata'</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="b34d406f-003c-4a87-b3b7-aa9e6d208594">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>to recite</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T13:18:28Z" dateModified="2021-10-29T13:18:28Z" id="gea_1c9825ac-b29d-4825-abb2-3635be5587cd" guid="1c9825ac-b29d-4825-abb2-3635be5587cd">
+<lexical-unit>
+<form lang="ski"><text>gea</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="014538fe-5cf2-4982-a5a3-9e09368c320c">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>to eat (1PL)</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T10:31:30Z" dateModified="2021-10-26T17:34:10Z" id="upa_1ca1b974-6d3e-4168-a84b-65c4c77f34d4" guid="1ca1b974-6d3e-4168-a84b-65c4c77f34d4">
+<lexical-unit>
+<form lang="ski"><text>upa</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="f93b6e87-3bd4-490f-b116-cdf9ccb84fe1">
+<grammatical-info value="Pronoun">
+</grammatical-info>
+<gloss lang="en"><text>where</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T10:20:53Z" dateModified="2021-10-26T17:35:38Z" id="bëli_1d66bbcc-79c9-49b7-99d7-6de3fdac1a9f" guid="1d66bbcc-79c9-49b7-99d7-6de3fdac1a9f">
+<lexical-unit>
+<form lang="ski"><text>bëli</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="8e1fdd27-8abf-443e-bba0-ab26bf927d81">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>give</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-20T15:11:15Z" dateModified="2021-10-26T17:32:01Z" id="iru_21180fc7-387b-4cdc-adc4-1898193aca03" guid="21180fc7-387b-4cdc-adc4-1898193aca03">
+<lexical-unit>
+<form lang="ski"><text>iru</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="21cdcdba-90d9-4851-9fee-56bfc4928cb8">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>nose</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T11:07:52Z" dateModified="2021-10-26T17:32:01Z" id="anak_220aa5a6-9813-441a-8916-e77bdce9ac70" guid="220aa5a6-9813-441a-8916-e77bdce9ac70">
+<lexical-unit>
+<form lang="ski"><text>anak</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="f7835313-9c11-4a7d-b9e2-61ac9d07bfb9">
+<grammatical-info value="Adjective">
+</grammatical-info>
+<gloss lang="en"><text>small</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-01T15:04:36Z" dateModified="2021-10-26T17:32:01Z" id="unen_25c68e01-55ca-49df-9ffa-f89c6f83ec5a" guid="25c68e01-55ca-49df-9ffa-f89c6f83ec5a">
+<lexical-unit>
+<form lang="ski"><text>unen</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="15052e63-e2e0-4ad4-adf9-2b3a679ef77c">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>seed</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T13:48:41Z" dateModified="2021-10-29T13:48:41Z" id="du&apos;ur_2602efce-34e4-4880-a857-94c2c6acb7aa" guid="2602efce-34e4-4880-a857-94c2c6acb7aa">
+<lexical-unit>
+<form lang="ski"><text>du'ur</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="c6614304-7909-4b7b-8863-f3f23fa45528">
+<grammatical-info value="Adjective">
+</grammatical-info>
+<gloss lang="en"><text>to dry food</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T10:54:05Z" dateModified="2021-10-26T17:34:10Z" id="ganupan_2a292419-d17e-48a5-bfe5-86611793dd38" guid="2a292419-d17e-48a5-bfe5-86611793dd38">
+<lexical-unit>
+<form lang="ski"><text>ganupan</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="119dde51-96e0-49ae-b1ca-34f986af36c2">
+<grammatical-info value="Pronoun">
+</grammatical-info>
+<gloss lang="en"><text>how</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T12:48:52Z" dateModified="2021-10-28T12:48:52Z" id="nian tana_2ccc0e94-1965-4398-aa48-398f8c37a0d8" guid="2ccc0e94-1965-4398-aa48-398f8c37a0d8">
+<lexical-unit>
+<form lang="ski"><text>nian tana</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="phrase"/>
+<relation type="_component-lexeme" ref="">
+<trait  name="complex-form-type" value="Unspecified Complex Form"/>
+</relation>
+<sense id="970ce801-0d2c-4511-8275-a00d50f5658c">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>earth</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T13:20:17Z" dateModified="2021-10-28T13:20:17Z" id="wari_2dedd49d-61c1-4570-891f-100634facb88" guid="2dedd49d-61c1-4570-891f-100634facb88">
+<lexical-unit>
+<form lang="ski"><text>wari</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="36a8584a-d8a0-4684-bd57-1b3cd674e04c">
+<gloss lang="en"><text>younger brother</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T10:23:25Z" dateModified="2021-10-26T17:35:38Z" id="lëro_2e74e079-3b12-4677-bdd9-d7945ad631b7" guid="2e74e079-3b12-4677-bdd9-d7945ad631b7">
+<lexical-unit>
+<form lang="ski"><text>lëro</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="daa27282-bcad-4342-bee9-69d6339e51e1">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>sun</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T13:24:52Z" dateModified="2021-10-28T13:24:52Z" id="nene&apos; puda mo&apos;a_30c996be-c3ee-4f91-bf86-d4c879037610" guid="30c996be-c3ee-4f91-bf86-d4c879037610">
+<lexical-unit>
+<form lang="ski"><text>nene' puda mo'a</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="phrase"/>
+<relation type="_component-lexeme" ref="">
+<trait  name="complex-form-type" value="Unspecified Complex Form"/>
+</relation>
+<sense id="bda10d7d-82b3-4ce5-8bfb-d8d003b8d75d">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>grandparents</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T10:29:26Z" dateModified="2021-10-26T17:32:01Z" id="napun_3714e6fa-1136-4f1a-91d0-9459a7d0d7d8" guid="3714e6fa-1136-4f1a-91d0-9459a7d0d7d8">
+<lexical-unit>
+<form lang="ski"><text>napun</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="2ad1cfd1-f951-4635-8495-eea3072ba58f">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>river</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T13:19:18Z" dateModified="2021-10-28T13:19:18Z" id="me a&apos;un la&apos;it_377062f3-5b8d-4df9-8e81-93f01d740b28" guid="377062f3-5b8d-4df9-8e81-93f01d740b28">
+<lexical-unit>
+<form lang="ski"><text>me a'un la'it</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="phrase"/>
+<relation type="_component-lexeme" ref="">
+<trait  name="complex-form-type" value="Unspecified Complex Form"/>
+</relation>
+<sense id="8d21836f-01bf-424e-8b8c-56f010b2fa29">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>son</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T12:44:41Z" dateModified="2021-10-28T12:44:41Z" id="uran_38dbe452-3ffe-4150-bb2a-957f910bc1d1" guid="38dbe452-3ffe-4150-bb2a-957f910bc1d1">
+<lexical-unit>
+<form lang="ski"><text>uran</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="49253fd6-427f-4b5b-b488-cace853a6a20">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>rain</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-01T14:55:00Z" dateModified="2021-10-26T17:35:38Z" id="kënahoron_3c95fba0-b742-4ba9-bbed-b4a7933acc7a" guid="3c95fba0-b742-4ba9-bbed-b4a7933acc7a">
+<lexical-unit>
+<form lang="ski"><text>kënahoron</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="11541406-bba3-4b8b-b25b-639fe716dcb8">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>bird</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T12:37:04Z" dateModified="2021-10-28T12:37:04Z" id="blosok_3dd52a2d-053e-4963-9968-e415e23e35d6" guid="3dd52a2d-053e-4963-9968-e415e23e35d6">
+<lexical-unit>
+<form lang="ski"><text>blosok</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="e4c008af-f691-4656-8716-4e3cfc76e2cd">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>rub</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T10:06:07Z" dateModified="2021-10-26T17:34:49Z" id="wa_3e682dab-3d2a-410f-8499-583b9ded003f" guid="3e682dab-3d2a-410f-8499-583b9ded003f">
+<lexical-unit>
+<form lang="ski"><text>wa</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="07ae5192-73f8-4fbf-a7f6-5797497d1b7a">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>mouth</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T13:29:34Z" dateModified="2021-10-29T13:29:34Z" id="guman_43439070-d722-4e16-af74-e25a692bf2c0" guid="43439070-d722-4e16-af74-e25a692bf2c0">
+<lexical-unit>
+<form lang="ski"><text>guman</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="aef573d6-cc4a-49c7-a4c6-90f6abd957ae">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>night</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T12:59:47Z" dateModified="2021-10-28T12:59:47Z" id="wina_43abbc1c-bfeb-455a-a339-e3c7e8967979" guid="43abbc1c-bfeb-455a-a339-e3c7e8967979">
+<lexical-unit>
+<form lang="ski"><text>wina</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="b67df75b-27c6-4a81-bac7-3ab370a75bba">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>mother (intimate)</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T13:49:52Z" dateModified="2021-10-29T13:49:52Z" id="dëhan_43cb92ad-7e73-4692-9555-287f8907e444" guid="43cb92ad-7e73-4692-9555-287f8907e444">
+<lexical-unit>
+<form lang="ski"><text>dëhan</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="dfef3d37-b74a-4d7b-94bf-faec23266986">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>to tell on somebody</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T11:22:39Z" dateModified="2021-10-26T17:35:16Z" id="mate ba&apos;a_43dd74b0-13fd-41ae-893a-1c3d73eed9b1" guid="43dd74b0-13fd-41ae-893a-1c3d73eed9b1">
+<lexical-unit>
+<form lang="ski"><text>mate ba'a</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="phrase"/>
+<relation type="_component-lexeme" ref="">
+<trait  name="complex-form-type" value="Unspecified Complex Form"/>
+</relation>
+<sense id="c8099464-a007-4f30-9034-b25e1e7cd95d">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>die (already)</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T11:07:34Z" dateModified="2021-10-26T17:35:38Z" id="bërat_44d34f5c-d8d5-444b-a252-a7292d6d0c88" guid="44d34f5c-d8d5-444b-a252-a7292d6d0c88">
+<lexical-unit>
+<form lang="ski"><text>bërat</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="ecad8d34-136e-44bc-a616-d88b7648fcd3">
+<grammatical-info value="Adjective">
+</grammatical-info>
+<gloss lang="en"><text>heavy</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T09:58:57Z" dateModified="2021-10-26T17:35:38Z" id="tëlon_453b2f58-11d3-418a-b318-ce45bd184883" guid="453b2f58-11d3-418a-b318-ce45bd184883">
+<lexical-unit>
+<form lang="ski"><text>tëlon</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="fffe6d1f-1610-41db-842f-afbb3b4e713b">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>egg</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-11T12:21:44Z" dateModified="2021-10-26T17:35:16Z" id="&apos;aro_45762b9d-fdbd-4c2b-b636-f6fd2606ea53" guid="45762b9d-fdbd-4c2b-b636-f6fd2606ea53">
+<lexical-unit>
+<form lang="ski"><text>'aro</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="2a562db0-b901-4bd6-92ad-7587cf79a8ed">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>scratch</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T11:24:10Z" dateModified="2021-10-26T17:35:16Z" id="punu wi&apos;in_47d6ac13-fe2e-4de4-acad-16f8d8b120c3" guid="47d6ac13-fe2e-4de4-acad-16f8d8b120c3">
+<lexical-unit>
+<form lang="ski"><text>punu wi'in</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="621c0a11-eaea-4fd0-8455-f91b9b11234e">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>fight</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T10:27:20Z" dateModified="2021-10-26T17:35:16Z" id="hai &apos;ia_4994919a-d7a7-4ce9-801d-0d9a6dd7c9c1" guid="4994919a-d7a7-4ce9-801d-0d9a6dd7c9c1">
+<lexical-unit>
+<form lang="ski"><text>hai 'ia</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="01d1c21e-8d43-4ee0-bddc-8f05a123c02f">
+<grammatical-info value="Pronoun">
+</grammatical-info>
+<gloss lang="en"><text>who</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-01T15:07:51Z" dateModified="2021-10-26T17:32:01Z" id="puhun_4a2df3ec-bd72-449e-afef-adfd32c4579c" guid="4a2df3ec-bd72-449e-afef-adfd32c4579c">
+<lexical-unit>
+<form lang="ski"><text>puhun</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="4835d32f-c9d4-4568-891c-8c57ed3e8ad4">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>flower</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T13:24:04Z" dateModified="2021-10-29T13:25:06Z" id="kleren_4a62c8f1-138a-418e-9812-7849ac38ea3a" guid="4a62c8f1-138a-418e-9812-7849ac38ea3a">
+<lexical-unit>
+<form lang="ski"><text>kleren</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="12d8ba5d-ddec-412d-be40-a0f8b7c2e793">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>branches</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T13:22:27Z" dateModified="2021-10-29T13:22:27Z" id="petak_4c649793-9fdb-4731-8b9d-a68ff02ac37e" guid="4c649793-9fdb-4731-8b9d-a68ff02ac37e">
+<lexical-unit>
+<form lang="ski"><text>petak</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="7bf0fa9e-7d38-468f-a833-f08591a4505a">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>rice field division</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T10:22:21Z" dateModified="2021-10-26T17:35:38Z" id="tëgu_52a6a050-ffb2-4cbd-98ce-dd610b66c0f2" guid="52a6a050-ffb2-4cbd-98ce-dd610b66c0f2">
+<lexical-unit>
+<form lang="ski"><text>tëgu</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="80f0cd69-33cf-4a74-b354-4c207ce34df7">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>throw</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T10:07:00Z" dateModified="2021-10-08T10:07:00Z" id="tur_54256665-6e21-4de1-a046-e3b8d45e3b66" guid="54256665-6e21-4de1-a046-e3b8d45e3b66">
+<lexical-unit>
+<form lang="ski"><text>tur</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="8c71eafd-b493-44ff-a586-3ef9d349bf8e">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>knee</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T11:10:46Z" dateModified="2021-10-26T17:35:16Z" id="&apos;ea_5492ac94-8419-409c-a567-8462236c7bf8" guid="5492ac94-8419-409c-a567-8462236c7bf8">
+<lexical-unit>
+<form lang="ski"><text>'ea</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="7476b181-6fe2-44a4-842d-133ec813791e">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>eat</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-20T15:14:54Z" dateModified="2021-10-26T17:32:01Z" id="papan_58d384ab-cc64-44dc-9e14-108ae25f2b3d" guid="58d384ab-cc64-44dc-9e14-108ae25f2b3d">
+<lexical-unit>
+<form lang="ski"><text>papan</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="0eba57c4-f9ce-4d7e-aab8-947026aa3108">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>part</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T09:59:17Z" dateModified="2021-10-26T17:32:01Z" id="taran_58f0d2c4-12a0-4b4a-bf12-9fe653275255" guid="58f0d2c4-12a0-4b4a-bf12-9fe653275255">
+<lexical-unit>
+<form lang="ski"><text>taran</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="b8ad0d49-e83a-4313-8825-a1d724fe7f99">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>horn</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-20T15:15:25Z" dateModified="2021-09-20T19:24:27Z" id="krtas_5f021913-1fb3-41f2-8449-8f8ac78e5460" guid="5f021913-1fb3-41f2-8449-8f8ac78e5460">
+<lexical-unit>
+<form lang="ski"><text>krtas</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="1eb32811-a279-40fe-9fd7-65714ac823be">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>paper</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T13:30:36Z" dateModified="2021-10-29T13:30:36Z" id="mun_5f261286-6397-407d-b109-3004ece75b96" guid="5f261286-6397-407d-b109-3004ece75b96">
+<lexical-unit>
+<form lang="ski"><text>mun</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="d94b5625-4a30-42e5-8758-6913e08a9c45">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>close relatives</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T13:18:39Z" dateModified="2021-10-29T13:19:18Z" id="se1_618dc158-30f6-4297-a08d-d60b22325d11" guid="618dc158-30f6-4297-a08d-d60b22325d11" order="1">
+<lexical-unit>
+<form lang="ski"><text>se</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="785a919b-e2c9-46b3-9296-5f80be73e1eb">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>lake</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T12:30:18Z" dateModified="2021-10-28T12:30:18Z" id="tana_636a661a-5135-4f3c-a66f-5807fe352645" guid="636a661a-5135-4f3c-a66f-5807fe352645">
+<lexical-unit>
+<form lang="ski"><text>tana</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="ffddc31e-0506-43ea-9b4c-a923f31513cd">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>ground</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T12:45:23Z" dateModified="2021-10-28T12:45:23Z" id="tahi&apos;_63862e6b-6464-4463-a148-d6a0a2cf1df9" guid="63862e6b-6464-4463-a148-d6a0a2cf1df9">
+<lexical-unit>
+<form lang="ski"><text>tahi'</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="8ade4166-ad89-4175-910b-73459db4bac8">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>sea</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T13:19:00Z" dateModified="2021-10-28T13:19:00Z" id="me a&apos;un du&apos;at_6424973d-63f9-4eae-8186-af3e18977b6a" guid="6424973d-63f9-4eae-8186-af3e18977b6a">
+<lexical-unit>
+<form lang="ski"><text>me a'un du'at</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="phrase"/>
+<relation type="_component-lexeme" ref="">
+<trait  name="complex-form-type" value="Unspecified Complex Form"/>
+</relation>
+<sense id="06cfd8a2-541a-49eb-b24e-c5f7e944509a">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>daughter</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T12:53:39Z" dateModified="2021-10-28T12:53:58Z" id="blatan_6427f250-c16f-4806-b8ed-9f10d037f60d" guid="6427f250-c16f-4806-b8ed-9f10d037f60d">
+<lexical-unit>
+<form lang="ski"><text>blatan</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="94998da1-acb5-448e-92ff-8bcabdce6398">
+<grammatical-info value="Adjective">
+</grammatical-info>
+<gloss lang="en"><text>cold</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T10:07:08Z" dateModified="2021-10-26T17:35:16Z" id="nimu bi&apos;an du&apos;at_643e24dc-f598-4217-a603-6340fca90c49" guid="643e24dc-f598-4217-a603-6340fca90c49">
+<lexical-unit>
+<form lang="ski"><text>nimu bi'an du'at</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="phrase"/>
+<relation type="_component-lexeme" ref="">
+<trait  name="complex-form-type" value="Unspecified Complex Form"/>
+</relation>
+<sense id="a0897b57-5b30-417d-9d48-dec863b57a85">
+<grammatical-info value="Pronoun">
+</grammatical-info>
+<gloss lang="en"><text>she</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T12:50:55Z" dateModified="2021-10-28T12:50:55Z" id="kursi_666bdd33-2b89-417d-a21c-3fb4ff59cb4b" guid="666bdd33-2b89-417d-a21c-3fb4ff59cb4b">
+<lexical-unit>
+<form lang="ski"><text>kursi</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="74235ab6-5b4e-40e7-9729-af83355653c5">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>chair</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T13:32:17Z" dateModified="2021-10-28T13:32:17Z" id="nene&apos; wina_66c5fd02-08a8-4ab4-b319-57f06a04e41a" guid="66c5fd02-08a8-4ab4-b319-57f06a04e41a">
+<lexical-unit>
+<form lang="ski"><text>nene' wina</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="phrase"/>
+<relation type="_component-lexeme" ref="">
+<trait  name="complex-form-type" value="Unspecified Complex Form"/>
+</relation>
+<sense id="b5790874-4a70-4e4a-9886-2460a9039bc5">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>grandmother</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T12:36:49Z" dateModified="2021-10-28T12:36:49Z" id="përa_67a37bd6-20c0-4e7b-9e54-faee49c84529" guid="67a37bd6-20c0-4e7b-9e54-faee49c84529">
+<lexical-unit>
+<form lang="ski"><text>përa</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="dda62485-0e2f-4426-a756-86b68424549e">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>squeeze</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T13:18:20Z" dateModified="2021-10-28T13:18:20Z" id="me2_67f0ffa8-43bd-43d5-a407-b4aa17c0ff3f" guid="67f0ffa8-43bd-43d5-a407-b4aa17c0ff3f" order="2">
+<lexical-unit>
+<form lang="ski"><text>me</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="b02ea1ed-31bd-4959-97af-529f2f44d497">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>child (descendent)</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-01T15:08:21Z" dateModified="2021-10-26T17:35:16Z" id="wa&apos;an_68fd139d-b116-415f-95dd-70dcd5cff4a6" guid="68fd139d-b116-415f-95dd-70dcd5cff4a6">
+<lexical-unit>
+<form lang="ski"><text>wa'an</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="dc71f3ed-c10a-473f-a573-163100204f13">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>grass</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-01T15:07:02Z" dateModified="2021-10-26T17:32:01Z" id="ramut_690ccf19-3a09-4f08-98c3-be4062357161" guid="690ccf19-3a09-4f08-98c3-be4062357161">
+<lexical-unit>
+<form lang="ski"><text>ramut</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="d64bc904-3648-4d8f-be17-e792473f18bf">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>root</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T11:02:43Z" dateModified="2021-10-26T17:35:16Z" id="le&apos;u wa&apos;i ha_6a3c2b5c-3a66-4b1d-8fe1-569601f44043" guid="6a3c2b5c-3a66-4b1d-8fe1-569601f44043">
+<lexical-unit>
+<form lang="ski"><text>le'u wa'i ha</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="phrase"/>
+<relation type="_component-lexeme" ref="">
+<trait  name="complex-form-type" value="Unspecified Complex Form"/>
+</relation>
+<sense id="b4b4160d-8a2d-4dfa-b699-4d900c6760b9">
+<grammatical-info value="Pronoun">
+</grammatical-info>
+<gloss lang="en"><text>all</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T10:15:07Z" dateModified="2021-10-28T12:23:43Z" id="sëga&apos;_6a6fd7f8-fc9a-4d14-959c-3019b59cec4c" guid="6a6fd7f8-fc9a-4d14-959c-3019b59cec4c">
+<lexical-unit>
+<form lang="ski"><text>sëga'</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="21bdd03a-c51c-485d-8f18-e968f04981f2">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>come</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-26T16:50:40Z" dateModified="2021-10-26T17:32:01Z" id="halo_6cb52764-be99-4ab7-8eec-3aa5eafa1e35" guid="6cb52764-be99-4ab7-8eec-3aa5eafa1e35">
+<lexical-unit>
+<form lang="ski"><text>halo</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="c9789269-5efa-4aa9-b270-ef01f6d902c6">
+<grammatical-info value="Interjection">
+</grammatical-info>
+<gloss lang="en"><text>hello</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T10:08:06Z" dateModified="2021-10-26T17:32:01Z" id="dula_6d868a57-ed82-420b-ab76-8b5af9b98869" guid="6d868a57-ed82-420b-ab76-8b5af9b98869">
+<lexical-unit>
+<form lang="ski"><text>dula</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="b0b15769-2402-415c-a4a3-8f47338fc5c8">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>belly</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-01T15:06:45Z" dateModified="2021-10-26T17:32:01Z" id="roun_6e02ca47-cdde-4ece-8fd1-35d5ca40562f" guid="6e02ca47-cdde-4ece-8fd1-35d5ca40562f">
+<lexical-unit>
+<form lang="ski"><text>roun</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="51c330a5-6efc-4d6d-97bb-d662889e5071">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>leaf</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T12:28:15Z" dateModified="2021-10-29T12:28:15Z" id="natar_6ee80509-f9ec-4151-b56a-69cea0420406" guid="6ee80509-f9ec-4151-b56a-69cea0420406">
+<lexical-unit>
+<form lang="ski"><text>natar</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="4eafac6f-dd78-4a00-98f2-d6a5db928883">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>village</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-01T14:55:50Z" dateModified="2021-10-26T17:32:01Z" id="meon_6f604735-58cd-4f14-8853-c948495c1ac9" guid="6f604735-58cd-4f14-8853-c948495c1ac9">
+<lexical-unit>
+<form lang="ski"><text>meon</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="5b927118-d3c2-4662-b05a-f1f56b70d058">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>cat</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-20T15:13:52Z" dateModified="2021-10-26T17:32:01Z" id="mata_6ff364a4-490d-4c97-aca9-44a430a44aa6" guid="6ff364a4-490d-4c97-aca9-44a430a44aa6">
+<lexical-unit>
+<form lang="ski"><text>mata</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="b80ab76e-9789-4f82-9802-a9757e349b27">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>eye</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-20T15:13:34Z" dateModified="2021-10-26T17:35:16Z" id="wa&apos;i_712c9a40-8113-4471-a358-b3c2dd796173" guid="712c9a40-8113-4471-a358-b3c2dd796173">
+<lexical-unit>
+<form lang="ski"><text>wa'i</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="fc9cbedc-66fe-4fd5-9d4c-92b7da03b0da">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>leg</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T11:04:26Z" dateModified="2021-10-26T17:34:10Z" id="harua_76126b21-0625-4c66-b112-d30cbcbdbf7f" guid="76126b21-0625-4c66-b112-d30cbcbdbf7f">
+<lexical-unit>
+<form lang="ski"><text>harua</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="413ca1cf-69fd-4250-8aa2-72d2de72a3b4" order="0">
+<gloss lang="en"><text>many</text></gloss>
+</sense>
+<sense id="42f10c65-1ae8-4e92-996e-8aced4bd98f3" order="1">
+<grammatical-info value="Pronoun">
+</grammatical-info>
+<gloss lang="en"><text>a few</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T10:16:08Z" dateModified="2021-10-30T14:42:39Z" id="tëri_79269c88-ce87-457f-b541-0e1f8164e761" guid="79269c88-ce87-457f-b541-0e1f8164e761">
+<lexical-unit>
+<form lang="ski"><text>tëri</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<note>
+<form lang="en"><text>dri for 1 and 3SG</text></form>
+</note>
+<sense id="a1827b8b-9fb8-472d-bc56-ffe0ab9be7d4">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>sit</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T10:12:54Z" dateModified="2021-10-26T17:32:01Z" id="nani_7992088f-4e2a-4f9b-b4fb-cf9a7355baf9" guid="7992088f-4e2a-4f9b-b4fb-cf9a7355baf9">
+<lexical-unit>
+<form lang="ski"><text>nani</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="ed742c8c-289b-45d2-8953-c1bf2664e987">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>swim</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-01T15:00:05Z" dateModified="2021-10-26T17:35:16Z" id="&apos;ai watu_7a0ebb63-d181-47e6-856d-660d7c2f4c3e" guid="7a0ebb63-d181-47e6-856d-660d7c2f4c3e">
+<lexical-unit>
+<form lang="ski"><text>'ai watu</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="ca3cbbbb-6214-4dff-8fc4-b4912d3946fb">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>forest</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T12:47:40Z" dateModified="2021-10-28T12:47:40Z" id="&apos;ëda_7aa398a2-29b2-43e2-8545-45b7474d85fe" guid="7aa398a2-29b2-43e2-8545-45b7474d85fe">
+<lexical-unit>
+<form lang="ski"><text>'ëda</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="34503559-08c7-410a-884d-df2d924f8bd1">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>sand</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-01T14:53:26Z" dateModified="2021-10-26T17:35:16Z" id="&apos;olon_7bb9dff2-051f-4f81-bcf6-6f8e4746e65c" guid="7bb9dff2-051f-4f81-bcf6-6f8e4746e65c">
+<lexical-unit>
+<form lang="ski"><text>'olon</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="5057d7d1-9cbe-44b5-bdd3-1efe051f8b5a">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>bird</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T11:06:06Z" dateModified="2021-10-26T17:35:38Z" id="gëte_7c810624-f080-42b2-b525-457bfcbfcef5" guid="7c810624-f080-42b2-b525-457bfcbfcef5">
+<lexical-unit>
+<form lang="ski"><text>gëte</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<note>
+<form lang="en"><text>Unclear stress</text></form>
+</note>
+<sense id="b0ba3f59-5abd-4230-bede-0b5b7c7ece79" order="0">
+<grammatical-info value="Adjective">
+</grammatical-info>
+<gloss lang="en"><text>big</text></gloss>
+</sense>
+<sense id="783543d6-5010-4afe-be17-97d276f1d811" order="1">
+<grammatical-info value="Adjective">
+</grammatical-info>
+<gloss lang="en"><text>wide</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T12:49:39Z" dateModified="2021-10-28T12:49:57Z" id="medja_7ddf2e03-a125-45bd-ae28-b8c1e1a05080" guid="7ddf2e03-a125-45bd-ae28-b8c1e1a05080">
+<lexical-unit>
+<form lang="ski"><text>medja</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<note>
+<form lang="en"><text>Indo loan word (from portuguese</text></form>
+</note>
+<sense id="06c0132e-6c0c-470f-af36-56ba4880349b">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>table</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-11T12:19:21Z" dateModified="2021-10-26T17:35:38Z" id="&apos;ëru_7e6160c8-b2c0-4340-9944-88eda4c48576" guid="7e6160c8-b2c0-4340-9944-88eda4c48576">
+<lexical-unit>
+<form lang="ski"><text>'ëru</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="672abdb1-a935-40b4-b752-6ab523fb41ab">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>neck</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T13:19:57Z" dateModified="2021-10-29T13:19:57Z" id="senter_80cd7361-982c-4969-958b-025eba6770b6" guid="80cd7361-982c-4969-958b-025eba6770b6">
+<lexical-unit>
+<form lang="ski"><text>senter</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="4720b5d2-6e7a-4db7-a88c-cd2040b6aa6b">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>flashlight</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T11:21:31Z" dateModified="2021-10-26T17:35:16Z" id="tu&apos;e_80e6d339-a730-4aa2-8e9d-ec7a8b0d61e6" guid="80e6d339-a730-4aa2-8e9d-ec7a8b0d61e6">
+<lexical-unit>
+<form lang="ski"><text>tu'e</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="86548fc4-bdae-4894-b699-3162cfe1eb8e">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>lay down</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T10:05:05Z" dateModified="2021-10-26T17:35:16Z" id="nimu bi&apos;an la&apos;it_81d19002-0e56-42cd-bb97-ee9c9b7bf84a" guid="81d19002-0e56-42cd-bb97-ee9c9b7bf84a">
+<lexical-unit>
+<form lang="ski"><text>nimu bi'an la'it</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="5cf66b17-9209-4277-83b2-8131491061a9">
+<grammatical-info value="Pronoun">
+</grammatical-info>
+<gloss lang="en"><text>he</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T11:13:10Z" dateModified="2021-10-26T17:34:10Z" id="to_848ebe2a-bca4-4442-a9a7-713e9bb55a58" guid="848ebe2a-bca4-4442-a9a7-713e9bb55a58">
+<lexical-unit>
+<form lang="ski"><text>to</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="92984ddc-8e26-469f-a19e-ac2df5242a6e">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>laugh</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T10:13:21Z" dateModified="2021-10-26T17:32:01Z" id="horo_84f40f8a-b4eb-49fb-9e0c-31c6918d799a" guid="84f40f8a-b4eb-49fb-9e0c-31c6918d799a">
+<lexical-unit>
+<form lang="ski"><text>horo</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="878c89b9-616f-4f42-ae4c-a21149a801b7">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>fly</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T12:54:09Z" dateModified="2021-10-28T12:54:09Z" id="blara_858b0a28-b117-4c40-aad9-cd15a3d9d18f" guid="858b0a28-b117-4c40-aad9-cd15a3d9d18f">
+<lexical-unit>
+<form lang="ski"><text>blara</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="94851561-18f0-4d83-b7dd-a2ea38cdc4ef">
+<grammatical-info value="Adjective">
+</grammatical-info>
+<gloss lang="en"><text>sick</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T12:46:05Z" dateModified="2021-10-28T12:46:05Z" id="hini_89edf8dd-bf00-4ce5-b115-d018c2d53ec3" guid="89edf8dd-bf00-4ce5-b115-d018c2d53ec3">
+<lexical-unit>
+<form lang="ski"><text>hini</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="0abc7bcc-5e3d-49b6-8575-a24aad03ff35">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>salt</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T10:11:48Z" dateModified="2021-10-26T17:32:01Z" id="bokak_8a0a6ff3-1a3f-4d7d-a65f-18199a6f6435" guid="8a0a6ff3-1a3f-4d7d-a65f-18199a6f6435">
+<lexical-unit>
+<form lang="ski"><text>bokak</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="bd2602e0-ea63-4299-be94-bd225aefde05">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>liver</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-11T12:17:23Z" dateModified="2021-10-26T17:34:10Z" id="ma_8b2dc590-844a-44b8-bcba-16d0632c2098" guid="8b2dc590-844a-44b8-bcba-16d0632c2098">
+<lexical-unit>
+<form lang="ski"><text>ma</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="56bf95d2-e75a-4c9f-a152-8b7a725eadb5">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>tongue</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T12:46:26Z" dateModified="2021-10-28T12:46:38Z" id="watu_8b463ba5-4351-4887-ac63-2ba77e7cac8e" guid="8b463ba5-4351-4887-ac63-2ba77e7cac8e">
+<lexical-unit>
+<form lang="ski"><text>watu</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<note>
+<form lang="en"><text>Could have final glottal stop</text></form>
+</note>
+<sense id="c6a6ddcb-69fc-44bc-96f4-565686c7eecb">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>stone</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T10:58:12Z" dateModified="2021-10-26T17:34:10Z" id="uma_8c33e5ba-042f-4910-8899-825766dcf381" guid="8c33e5ba-042f-4910-8899-825766dcf381">
+<lexical-unit>
+<form lang="ski"><text>uma</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="89c8100f-53f8-493b-9ff9-29663b24fcf9">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>rice field house</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T13:47:44Z" dateModified="2021-10-29T13:47:44Z" id="du&apos;a_8e46907f-88b4-43ec-bd41-d524c111b6be" guid="8e46907f-88b4-43ec-bd41-d524c111b6be">
+<lexical-unit>
+<form lang="ski"><text>du'a</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="d89cab55-5a7f-4178-8e64-f989c9a75b9f">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>wife</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-01T14:56:14Z" dateModified="2021-10-26T17:32:01Z" id="utu_8eb65371-076a-4cce-b2c1-d1278e91dec9" guid="8eb65371-076a-4cce-b2c1-d1278e91dec9">
+<lexical-unit>
+<form lang="ski"><text>utu</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="548a1b1f-1ac4-4126-8c24-8dcb7805270a">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>louse</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T10:05:28Z" dateModified="2021-10-26T17:35:16Z" id="&apos;ita_8f322a75-7792-4dcc-952f-93aec53a5faf" guid="8f322a75-7792-4dcc-952f-93aec53a5faf">
+<lexical-unit>
+<form lang="ski"><text>'ita</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="6a4043df-3c42-497d-a2f8-d7f3afabb1ea">
+<grammatical-info value="Pronoun">
+</grammatical-info>
+<gloss lang="en"><text>1pl.incl</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T12:36:21Z" dateModified="2021-10-28T12:36:32Z" id="pligo_92045f26-6a07-44fe-a566-bc3d4a7ef350" guid="92045f26-6a07-44fe-a566-bc3d4a7ef350">
+<lexical-unit>
+<form lang="ski"><text>pligo</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="be1d9325-e531-4119-9cd4-7ed663007d93">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>hold</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T10:30:56Z" dateModified="2021-10-26T17:34:10Z" id=" apa_9237ce19-814d-4b0e-8fdb-224f0a70c1dd" guid="9237ce19-814d-4b0e-8fdb-224f0a70c1dd">
+<lexical-unit>
+<form lang="ski"><text> apa</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="420ccf66-a624-41a7-869f-90df65347dd7">
+<grammatical-info value="Pronoun">
+</grammatical-info>
+<gloss lang="en"><text>what</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T12:37:40Z" dateModified="2021-10-28T12:37:40Z" id="lap_92d5fa97-a513-4c45-b15a-eab6bbb57051" guid="92d5fa97-a513-4c45-b15a-eab6bbb57051">
+<lexical-unit>
+<form lang="ski"><text>lap</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="a2286f8e-5669-4ef9-afa0-e86847afc791">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>wipe</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T13:32:46Z" dateModified="2021-10-29T13:32:46Z" id="pu_92f49cbc-2818-42a8-8d2b-c43361fc6f0a" guid="92f49cbc-2818-42a8-8d2b-c43361fc6f0a">
+<lexical-unit>
+<form lang="ski"><text>pu</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="00e6066a-45cf-49e1-95c0-0dc53fa78159">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>brother in law</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-01T15:03:10Z" dateModified="2021-10-26T17:32:01Z" id="leten_941319a4-0f98-4279-8244-abffe8bd4c17" guid="941319a4-0f98-4279-8244-abffe8bd4c17">
+<lexical-unit>
+<form lang="ski"><text>leten</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="1f74f08b-7263-4774-816f-e70e3b509236">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>stick</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-01T14:55:22Z" dateModified="2021-10-26T17:32:01Z" id="ahu_948166c2-2fa6-4400-ba6d-ee5d3406bafc" guid="948166c2-2fa6-4400-ba6d-ee5d3406bafc">
+<lexical-unit>
+<form lang="ski"><text>ahu</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="d27ad5fc-6e8f-4e16-bd8a-a390343c7766">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>dog</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-20T15:12:07Z" dateModified="2021-10-26T17:32:01Z" id="niu_95855227-bc3c-40e6-bc0a-3ce0a9c42442" guid="95855227-bc3c-40e6-bc0a-3ce0a9c42442">
+<lexical-unit>
+<form lang="ski"><text>niu</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="0bda3c9a-444f-4331-920a-1eee3c5e36b4">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>teeth</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T10:21:08Z" dateModified="2021-10-26T17:32:01Z" id="sogor_96d7d2fb-639a-4563-a947-96dd1f8c2942" guid="96d7d2fb-639a-4563-a947-96dd1f8c2942">
+<lexical-unit>
+<form lang="ski"><text>sogor</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="3fa9e31a-6352-45a8-b76e-e4502d08cc52">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>push</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-11T12:21:10Z" dateModified="2021-10-26T17:32:01Z" id="robak_977118d0-d3f3-4b1e-8ca7-7a4022f1b345" guid="977118d0-d3f3-4b1e-8ca7-7a4022f1b345">
+<lexical-unit>
+<form lang="ski"><text>robak</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="3fa39a45-03c9-47fc-bc44-f3a8770fc738">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>stab</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T10:10:09Z" dateModified="2021-10-26T17:35:16Z" id="to&apos;e_9a3dedf7-46cc-4850-8bc7-1a7793de3a68" guid="9a3dedf7-46cc-4850-8bc7-1a7793de3a68">
+<lexical-unit>
+<form lang="ski"><text>to'e</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="e3836810-dabc-4bb6-99d2-108a327540e5">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>back</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T13:17:09Z" dateModified="2021-10-28T13:17:09Z" id="dedi&apos; anak_9bafff2f-ea14-491a-ba2a-d3daac8cee2a" guid="9bafff2f-ea14-491a-ba2a-d3daac8cee2a">
+<lexical-unit>
+<form lang="ski"><text>dedi' anak</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="phrase"/>
+<relation type="_component-lexeme" ref="">
+<trait  name="complex-form-type" value="Unspecified Complex Form"/>
+</relation>
+<sense id="56801c14-d0d0-4266-8276-304c37c0c7fb">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>child</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T13:40:04Z" dateModified="2021-10-29T13:41:03Z" id="wongak1_9c5e2d49-fb0f-48d2-8f6e-d01f1c1785cc" guid="9c5e2d49-fb0f-48d2-8f6e-d01f1c1785cc" order="1">
+<lexical-unit>
+<form lang="ski"><text>wongak</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="ccc12973-f8fa-4e5a-ae5d-c618ab82dfd8">
+<grammatical-info value="Adjective">
+</grammatical-info>
+<gloss lang="en"><text>distracted</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T12:22:26Z" dateModified="2021-10-28T12:22:26Z" id="&apos;ali_9c777352-b749-4923-902f-c1ff909eaba2" guid="9c777352-b749-4923-902f-c1ff909eaba2">
+<lexical-unit>
+<form lang="ski"><text>'ali</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="345cadb2-5c2f-4731-9030-22c0e9b96d6c">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>dig</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T13:20:29Z" dateModified="2021-10-29T12:36:01Z" id="ue_9cd0954f-7df1-481d-b878-d0ee6609fbeb" guid="9cd0954f-7df1-481d-b878-d0ee6609fbeb">
+<lexical-unit>
+<form lang="ski"><text>ue</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="f54fcd66-051c-4275-8fdb-3145e57a2263">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>older brother</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T13:06:50Z" dateModified="2021-10-28T13:10:17Z" id="ina ama_9cf58726-c49b-4120-8948-1803f1f9ee90" guid="9cf58726-c49b-4120-8948-1803f1f9ee90">
+<lexical-unit>
+<form lang="ski"><text>ina ama</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="phrase"/>
+<note>
+<form lang="en"><text>glottal stop??</text></form>
+</note>
+<relation type="_component-lexeme" ref="">
+<trait  name="complex-form-type" value="Unspecified Complex Form"/>
+</relation>
+<sense id="c0012b95-84d7-44e6-bf80-b870b7a6431f">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>parent</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T13:00:00Z" dateModified="2021-10-29T13:27:07Z" id="ina_9d5e8e43-7100-40da-95ca-03197fc75573" guid="9d5e8e43-7100-40da-95ca-03197fc75573">
+<lexical-unit>
+<form lang="ski"><text>ina</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="c4c60834-16ca-4d49-ba14-411f3ddbde2c">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>mother</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T10:57:16Z" dateModified="2021-10-26T17:35:16Z" id="bi&apos;an_9d9f61a4-653a-4131-b754-1224cc07f1b5" guid="9d9f61a4-653a-4131-b754-1224cc07f1b5">
+<lexical-unit>
+<form lang="ski"><text>bi'an</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="75832dba-5d55-4d9c-8865-6362e5af393e">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>people</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T13:17:45Z" dateModified="2021-10-28T13:17:45Z" id="dedi&apos; nurak_9f339884-4d97-49b9-9f23-a66ef8cc4002" guid="9f339884-4d97-49b9-9f23-a66ef8cc4002">
+<lexical-unit>
+<form lang="ski"><text>dedi' nurak</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="phrase"/>
+<relation type="_component-lexeme" ref="">
+<trait  name="complex-form-type" value="Unspecified Complex Form"/>
+</relation>
+<sense id="19f74ce9-3b1a-4351-a419-1361157df278">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>newborn</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T12:37:20Z" dateModified="2021-10-28T12:37:20Z" id="popo_a02441df-c67b-4fc4-9dda-f80c73e30935" guid="a02441df-c67b-4fc4-9dda-f80c73e30935">
+<lexical-unit>
+<form lang="ski"><text>popo</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="4619dc97-55de-411c-a01d-eae5833d1338">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>wash</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T12:47:54Z" dateModified="2021-10-29T12:47:54Z" id="nen_a1be200d-5964-4f1e-a549-977fdf5eeebf" guid="a1be200d-5964-4f1e-a549-977fdf5eeebf">
+<lexical-unit>
+<form lang="ski"><text>nen</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="af631623-c254-43eb-969d-eee7ed7c20f8">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>beach</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-01T14:52:11Z" dateModified="2021-10-26T17:32:01Z" id="manu_a2db9916-7982-435e-9f34-9f96dd9143af" guid="a2db9916-7982-435e-9f34-9f96dd9143af">
+<lexical-unit>
+<form lang="ski"><text>manu</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="db34e13f-e547-41f7-a511-143abc51c9aa">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>chicken</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T09:57:47Z" dateModified="2021-10-26T17:32:01Z" id="lurin_a3bd6f3c-ada9-448e-8d4c-69ae71aeafb0" guid="a3bd6f3c-ada9-448e-8d4c-69ae71aeafb0">
+<lexical-unit>
+<form lang="ski"><text>lurin</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="2abbe033-f818-408d-b3c6-a11eccb561a8">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>bone</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-01T15:00:30Z" dateModified="2021-10-29T13:27:41Z" id="dudun bëleng_a59c82cb-4a80-42d3-b2f8-37e58558e47e" guid="a59c82cb-4a80-42d3-b2f8-37e58558e47e">
+<lexical-unit>
+<form lang="ski"><text>dudun bëleng</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="50bef231-1079-44ce-82c9-74a9c443f55f">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>forest</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T11:06:19Z" dateModified="2021-09-25T11:06:19Z" id="blon_a7046f19-992b-4990-8909-802904579013" guid="a7046f19-992b-4990-8909-802904579013">
+<lexical-unit>
+<form lang="ski"><text>blon</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="fdfad00d-7452-4f6d-b84b-f80671395918">
+<grammatical-info value="Adjective">
+</grammatical-info>
+<gloss lang="en"><text>long</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T11:18:57Z" dateModified="2021-09-25T11:19:39Z" id="pikr_a732575e-15fb-40f5-9bfe-1312233d2089" guid="a732575e-15fb-40f5-9bfe-1312233d2089">
+<lexical-unit>
+<form lang="ski"><text>pikr</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<note>
+<form lang="en"><text>Indonesian loan</text></form>
+</note>
+<sense id="098400f4-16b8-4a1a-916f-aca0ab33364f">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>think</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T10:12:51Z" dateModified="2021-10-26T17:32:01Z" id="lau_a77cabd0-d5c6-4e93-8cee-b7ab94d34bd0" guid="a77cabd0-d5c6-4e93-8cee-b7ab94d34bd0">
+<lexical-unit>
+<form lang="ski"><text>lau</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="de899fa0-8a17-4d6d-86b2-a33e8e20fe3e">
+<grammatical-info value="Demonstrative">
+</grammatical-info>
+<gloss lang="en"><text>that</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T13:45:49Z" dateModified="2021-10-29T13:45:49Z" id="dëka&apos;_a8e9f8fd-f498-4bf0-b60c-587cb1df28c3" guid="a8e9f8fd-f498-4bf0-b60c-587cb1df28c3">
+<lexical-unit>
+<form lang="ski"><text>dëka'</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="c4b1a69b-41b8-4868-b5c5-3340a4f86173">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>to flinch to sit</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T11:18:08Z" dateModified="2021-10-26T17:35:16Z" id="ra&apos;itan_a95f309d-3ed7-4152-a4d3-ef2c0f8161b1" guid="a95f309d-3ed7-4152-a4d3-ef2c0f8161b1">
+<lexical-unit>
+<form lang="ski"><text>ra'itan</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="13fe1912-39df-472e-a850-b1546d4b760d">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>know</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T11:12:25Z" dateModified="2021-10-26T17:32:01Z" id="plupi_aa1a06d8-a7ca-4125-a5a7-63edc30b7bae" guid="aa1a06d8-a7ca-4125-a5a7-63edc30b7bae">
+<lexical-unit>
+<form lang="ski"><text>plupi</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="c3f41391-acb3-431d-81d1-781f782ea967">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>blow</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T09:59:54Z" dateModified="2021-10-26T17:32:01Z" id="kekor_aabbec82-c355-4d76-9f1c-8cc67e94841a" guid="aabbec82-c355-4d76-9f1c-8cc67e94841a">
+<lexical-unit>
+<form lang="ski"><text>kekor</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="df592228-3301-4d92-ba4d-6012cde9845d">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>feather</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T10:07:24Z" dateModified="2021-10-26T17:32:01Z" id="kapik_ab0e3d4d-4788-4872-b497-f11795001aab" guid="ab0e3d4d-4788-4872-b497-f11795001aab">
+<lexical-unit>
+<form lang="ski"><text>kapik</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="4b55a1b0-3b7d-4368-ac4e-816b175830bf">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>wing</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T13:45:16Z" dateModified="2021-10-29T13:45:16Z" id="&apos;ëkak_abae71a2-9ef5-4b94-8c10-f6c28e5698f4" guid="abae71a2-9ef5-4b94-8c10-f6c28e5698f4">
+<lexical-unit>
+<form lang="ski"><text>'ëkak</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="59024612-5384-487c-9249-8c1d484b8a70">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>offering</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T10:23:00Z" dateModified="2021-10-26T17:34:10Z" id="ulun_ac2eb13c-1ffc-47ef-8d03-40396897d087" guid="ac2eb13c-1ffc-47ef-8d03-40396897d087">
+<lexical-unit>
+<form lang="ski"><text>ulun</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="68ef6685-9258-47bd-8dbc-5b4a3d2d8eec">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>speak</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T10:09:31Z" dateModified="2021-10-26T17:35:16Z" id="ta&apos;idula_acd4ff5b-9f10-42b0-a449-0a5e6fa2dd78" guid="acd4ff5b-9f10-42b0-a449-0a5e6fa2dd78">
+<lexical-unit>
+<form lang="ski"><text>ta'idula</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="87825a32-8515-4589-a1f8-498abd8dd887">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>guts</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T13:38:29Z" dateModified="2021-10-29T13:38:29Z" id="bokat_ad18861e-634a-414d-94ed-57ef031bc04f" guid="ad18861e-634a-414d-94ed-57ef031bc04f">
+<lexical-unit>
+<form lang="ski"><text>bokat</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="b73061f2-8827-427a-9c57-4dec0c670211">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>mushroom</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T10:09:54Z" dateModified="2021-10-26T17:35:16Z" id="&apos;ete_ad723bb2-f648-4fe9-bc2a-540aadc078b9" guid="ad723bb2-f648-4fe9-bc2a-540aadc078b9">
+<lexical-unit>
+<form lang="ski"><text>'ete</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="27b0bc75-6a87-44ed-a03b-eb13c51a1c53">
+<grammatical-info value="Demonstrative">
+</grammatical-info>
+<gloss lang="en"><text>this</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T11:21:10Z" dateModified="2021-10-26T17:35:16Z" id="blau&apos;_ade30727-ac9a-4ecd-9ff5-3092dbb43c93" guid="ade30727-ac9a-4ecd-9ff5-3092dbb43c93">
+<lexical-unit>
+<form lang="ski"><text>blau'</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="1d3db6db-fcb7-4e4a-b1d5-865f9eebf2b9">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>fear</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T09:57:27Z" dateModified="2021-10-26T17:32:01Z" id="mei_af0dc6f3-3692-413d-8abd-6cfad3545183" guid="af0dc6f3-3692-413d-8abd-6cfad3545183">
+<lexical-unit>
+<form lang="ski"><text>mei</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="e9231e15-1367-4101-bda6-e781af0eb7bc">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>blood</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T13:14:44Z" dateModified="2021-10-29T13:14:44Z" id="guruk_b17b0e05-7f0a-4fe7-a93f-8bf53c2d6566" guid="b17b0e05-7f0a-4fe7-a93f-8bf53c2d6566">
+<lexical-unit>
+<form lang="ski"><text>guruk</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="a5cb0ff2-3926-434e-aad0-b8a88f3bc95b">
+<grammatical-info value="Adverb">
+</grammatical-info>
+<gloss lang="en"><text>still</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-01T14:58:24Z" dateModified="2021-10-26T17:35:16Z" id="&apos;ai_b6730ecb-38c5-451b-8c0b-0e36342e5307" guid="b6730ecb-38c5-451b-8c0b-0e36342e5307">
+<lexical-unit>
+<form lang="ski"><text>'ai</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="8f8f8c15-3ab0-4a2b-a485-d05dcd09a06f">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>tree</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T11:23:28Z" dateModified="2021-10-26T17:35:38Z" id="bëli mate_b67ca1b7-0028-46aa-96af-e51c4030b34a" guid="b67ca1b7-0028-46aa-96af-e51c4030b34a">
+<lexical-unit>
+<form lang="ski"><text>bëli mate</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="ea2e9762-3483-471a-85f3-272c2d658c46">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>kill</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T10:06:30Z" dateModified="2021-10-26T17:32:01Z" id="kikir_b6f70849-972a-4297-9085-391b3f39c053" guid="b6f70849-972a-4297-9085-391b3f39c053">
+<lexical-unit>
+<form lang="ski"><text>kikir</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="dffbe1cd-1017-4b7c-9a37-a56c7869b617">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>fingernail</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T11:24:39Z" dateModified="2021-10-26T17:32:01Z" id="lapot_b7bad763-68be-4deb-ad76-115ce52e59d0" guid="b7bad763-68be-4deb-ad76-115ce52e59d0">
+<lexical-unit>
+<form lang="ski"><text>lapot</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="49f26daf-53a2-412b-b7be-fa6d622bd362">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>hit</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T11:24:23Z" dateModified="2021-10-26T17:32:01Z" id="rakan_bcf0ae7a-adb4-435f-a873-864bc31b1f6c" guid="bcf0ae7a-adb4-435f-a873-864bc31b1f6c">
+<lexical-unit>
+<form lang="ski"><text>rakan</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="b01551a0-16ad-4d90-8553-66cba4eea8a6">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>hunt</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T11:09:29Z" dateModified="2021-10-26T17:35:16Z" id="pu&apos;ur_bdb9ead3-7b57-430e-8932-0b555bfdbdd3" guid="bdb9ead3-7b57-430e-8932-0b555bfdbdd3">
+<lexical-unit>
+<form lang="ski"><text>pu'ur</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="23686b76-3b8d-47be-ba85-01ed7181153a">
+<grammatical-info value="Adjective">
+</grammatical-info>
+<gloss lang="en"><text>short</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T10:27:48Z" dateModified="2021-10-26T17:32:01Z" id="kantar_c3296bba-864f-4062-b31a-d78415a2154a" guid="c3296bba-864f-4062-b31a-d78415a2154a">
+<lexical-unit>
+<form lang="ski"><text>kantar</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="2a9d128b-2cb0-4589-9fa6-2103799abef0">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>sing</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T11:07:18Z" dateModified="2021-10-26T17:35:38Z" id="tëra_c33a7537-aef5-4045-bd49-494795ed0657" guid="c33a7537-aef5-4045-bd49-494795ed0657">
+<lexical-unit>
+<form lang="ski"><text>tëra</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="b610dfee-2767-4408-b763-4721760ad552">
+<grammatical-info value="Adjective">
+</grammatical-info>
+<gloss lang="en"><text>hard</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T12:54:33Z" dateModified="2021-10-28T12:54:33Z" id="gahu&apos;_c33b185c-6ac0-4321-80b1-b10ad7b497a7" guid="c33b185c-6ac0-4321-80b1-b10ad7b497a7">
+<lexical-unit>
+<form lang="ski"><text>gahu'</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="5e053c18-5160-4388-aa05-f2669ffd8109">
+<grammatical-info value="Adjective">
+</grammatical-info>
+<gloss lang="en"><text>hot</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-01T15:09:55Z" dateModified="2021-10-26T17:35:38Z" id="&apos;ëtan_c3412e03-df08-429f-8aea-061021ad499c" guid="c3412e03-df08-429f-8aea-061021ad499c">
+<lexical-unit>
+<form lang="ski"><text>'ëtan</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="037073a6-7ec7-4407-bb31-d2cf61f017d5">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>meat</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T10:03:08Z" dateModified="2021-10-26T17:35:16Z" id="&apos;au_c418b22f-615a-457e-85ca-813013eb8dd4" guid="c418b22f-615a-457e-85ca-813013eb8dd4">
+<lexical-unit>
+<form lang="ski"><text>'au</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="582d83ad-b57a-48f2-b5a6-093bd4dad5eb">
+<grammatical-info value="Pronoun">
+</grammatical-info>
+<gloss lang="en"><text>you (sg.)</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-27T11:55:54Z" dateModified="2021-10-26T17:35:16Z" id="&apos;ami_c4a662d6-6714-4f30-94bc-ccd324458229" guid="c4a662d6-6714-4f30-94bc-ccd324458229">
+<lexical-unit>
+<form lang="ski"><text>'ami</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="8daca4cc-17f1-445a-b248-487c0ee9874a">
+<grammatical-info value="Pronoun">
+</grammatical-info>
+<gloss lang="en"><text>1pl.excl</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T13:44:14Z" dateModified="2021-10-29T13:44:14Z" id="rekat_c505afc7-b38c-44cf-936a-fd61ffc57068" guid="c505afc7-b38c-44cf-936a-fd61ffc57068">
+<lexical-unit>
+<form lang="ski"><text>rekat</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="b6456f30-1b63-4cbf-9782-6844169224f9">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>rice field corner</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T13:20:43Z" dateModified="2021-10-29T13:20:43Z" id="te&apos;er_c6211565-0e1a-40d3-b7fc-4a595d3dd6f3" guid="c6211565-0e1a-40d3-b7fc-4a595d3dd6f3">
+<lexical-unit>
+<form lang="ski"><text>te'er</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="d33f5cbf-9791-4160-92f3-db326bc80be5">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>to wait</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T12:44:17Z" dateModified="2021-10-28T12:44:17Z" id="wair_c6b29b7a-0a40-4925-a323-9d55e9a0261b" guid="c6b29b7a-0a40-4925-a323-9d55e9a0261b">
+<lexical-unit>
+<form lang="ski"><text>wair</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="cdc84807-8c8c-491d-85fc-99329b637080">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>water</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T13:24:27Z" dateModified="2021-10-28T13:24:27Z" id="nene&apos; ama_c9e71f9b-e3c0-4ad0-9dfd-7d8d60d2c3f7" guid="c9e71f9b-e3c0-4ad0-9dfd-7d8d60d2c3f7">
+<lexical-unit>
+<form lang="ski"><text>nene' ama</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="phrase"/>
+<relation type="_component-lexeme" ref="">
+<trait  name="complex-form-type" value="Unspecified Complex Form"/>
+</relation>
+<sense id="f1e297d5-7482-4ec2-beb7-81740949b582">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>grandfather</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T13:34:23Z" dateModified="2021-10-29T12:27:57Z" id="nene&apos;_cf4154f6-1da5-4b76-b9bc-cbad5358ee34" guid="cf4154f6-1da5-4b76-b9bc-cbad5358ee34">
+<lexical-unit>
+<form lang="ski"><text>nene'</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="47a1fd81-2fe4-4097-8264-fb79d3c6b6c5">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>grandparent</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-20T15:12:57Z" dateModified="2021-10-26T17:32:01Z" id="lima_d1a83380-bb15-4c46-877f-4ec831eaa8a5" guid="d1a83380-bb15-4c46-877f-4ec831eaa8a5">
+<lexical-unit>
+<form lang="ski"><text>lima</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="1eaa3d9e-1edc-400e-96b9-41d546f1425f" order="0">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>hand</text></gloss>
+</sense>
+<sense id="9fe8af3e-7901-4de6-ad67-ea0ec16ec7ed" order="1">
+<gloss lang="en"><text>arm</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T13:37:06Z" dateModified="2021-10-29T13:37:06Z" id="lënung_d2277078-e244-4f82-a159-b19bc774c369" guid="d2277078-e244-4f82-a159-b19bc774c369">
+<lexical-unit>
+<form lang="ski"><text>lënung</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="49f493cd-898b-4191-8e19-423248a801ff">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>pillar</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T13:39:20Z" dateModified="2021-10-29T13:39:20Z" id="hoka_d7ab024e-3baa-4920-b3ee-ebe6fa4a0382" guid="d7ab024e-3baa-4920-b3ee-ebe6fa4a0382">
+<lexical-unit>
+<form lang="ski"><text>hoka</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="6105c766-5a9c-45f6-a7c8-2fdba79d9767">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>to dig (with hoe)</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-20T15:12:29Z" dateModified="2021-10-26T17:34:49Z" id="wae_db5fdb0d-d374-42d7-9a9b-f8185276a62b" guid="db5fdb0d-d374-42d7-9a9b-f8185276a62b">
+<lexical-unit>
+<form lang="ski"><text>wae</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="214f2e2f-1fb8-47e4-b1c8-da2d7047c08a">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>face</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-20T15:10:46Z" dateModified="2021-10-26T17:35:16Z" id="lo&apos;e_df17175f-6033-4745-bff2-7b02618d6851" guid="df17175f-6033-4745-bff2-7b02618d6851">
+<lexical-unit>
+<form lang="ski"><text>lo'e</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="f6112cf6-3226-43e9-82f1-d56a10dbe412">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>hair</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T13:41:03Z" dateModified="2021-10-29T13:41:03Z" id="wongak2_dfcec9af-2b64-4b69-a569-432421844589" guid="dfcec9af-2b64-4b69-a569-432421844589" order="2">
+<lexical-unit>
+<form lang="ski"><text>wongak</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="cfa5a0f6-8ade-4216-89fb-a356aa2ca81f">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>to look up</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T10:10:58Z" dateModified="2021-10-26T17:34:10Z" id="uhu_e21dbc45-e64e-41d4-ae6f-3525eff2e3db" guid="e21dbc45-e64e-41d4-ae6f-3525eff2e3db">
+<lexical-unit>
+<form lang="ski"><text>uhu</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="de0139a3-456c-4a6b-9688-eeb03916b028">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>breast</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-11T12:27:19Z" dateModified="2021-10-26T17:35:38Z" id="tëbo_e2bfea07-9703-4479-8ca8-efa7a02bad69" guid="e2bfea07-9703-4479-8ca8-efa7a02bad69">
+<lexical-unit>
+<form lang="ski"><text>tëbo</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="0d03ba7c-ea1c-4415-a6fe-6d382f89b1ac">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>body</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T13:22:03Z" dateModified="2021-10-28T13:22:03Z" id="wine_e6d65f60-f498-4747-8c4b-a81586a4c2e7" guid="e6d65f60-f498-4747-8c4b-a81586a4c2e7">
+<lexical-unit>
+<form lang="ski"><text>wine</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="4b91464f-95f9-4bc6-b341-8ec0115b9ff9">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>sister</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T10:03:35Z" dateModified="2021-10-26T17:34:10Z" id="ala_ead79264-9885-49ae-8947-ca1c7aeb943e" guid="ead79264-9885-49ae-8947-ca1c7aeb943e">
+<lexical-unit>
+<form lang="ski"><text>ala</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="e6f1ff21-885a-44eb-9e8e-82e69f0f5c33">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>head</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T10:57:34Z" dateModified="2021-10-26T17:35:38Z" id="lëpo_eb9b5abf-7096-47ae-90c8-7c11bbba5b58" guid="eb9b5abf-7096-47ae-90c8-7c11bbba5b58">
+<lexical-unit>
+<form lang="ski"><text>lëpo</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="c2e67ae5-94f1-42b2-a136-0636c8da3829">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>house</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-20T15:11:43Z" dateModified="2021-10-26T17:32:01Z" id="tilu_ebd4d597-06cb-4910-8863-b49b8a0731b5" guid="ebd4d597-06cb-4910-8863-b49b8a0731b5">
+<lexical-unit>
+<form lang="ski"><text>tilu</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="c8d1994b-389d-4fed-a486-5e7c884674bc">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>ear</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T13:23:17Z" dateModified="2021-10-29T13:23:17Z" id="reta_eda1dc44-e18f-49ca-ac02-1e730b122907" guid="eda1dc44-e18f-49ca-ac02-1e730b122907">
+<lexical-unit>
+<form lang="ski"><text>reta</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="490eac8d-d49a-46e3-ab85-d1043ebf56e0">
+<gloss lang="en"><text>to</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T11:11:02Z" dateModified="2021-10-26T17:32:01Z" id="baka_f04f1942-8fb3-4f4a-84d3-984b0086b1fb" guid="f04f1942-8fb3-4f4a-84d3-984b0086b1fb">
+<lexical-unit>
+<form lang="ski"><text>baka</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="ef51b8a4-6923-413c-9c7d-fd4faa662599">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>bite</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T13:28:16Z" dateModified="2021-10-29T13:29:47Z" id="rumang_f233e9f7-7fb6-4cd6-9c1c-1cad24310f9c" guid="f233e9f7-7fb6-4cd6-9c1c-1cad24310f9c">
+<lexical-unit>
+<form lang="ski"><text>rumang</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="e2472a8c-5a1f-457b-b089-fd4a2595ef89">
+<grammatical-info value="Adjective">
+</grammatical-info>
+<gloss lang="en"><text>dark</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T10:13:20Z" dateModified="2021-10-26T17:35:16Z" id="lau &apos;ia_f40ad881-d4f1-425b-94a4-7282d28a53db" guid="f40ad881-d4f1-425b-94a4-7282d28a53db">
+<lexical-unit>
+<form lang="ski"><text>lau 'ia</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="fddaef7d-9b6f-4722-b17e-25743d6d4544">
+<grammatical-info value="Adverb">
+</grammatical-info>
+<gloss lang="en"><text>there</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T10:56:15Z" dateModified="2021-10-29T12:30:49Z" id="e&apos;on_f583d43a-15e3-4982-a0ff-7ca68cca9c8b" guid="f583d43a-15e3-4982-a0ff-7ca68cca9c8b">
+<lexical-unit>
+<form lang="ski"><text>e'on</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="c4f07800-c383-4ff2-8715-aa53af3343e5">
+<grammatical-info value="Adverb">
+</grammatical-info>
+<gloss lang="en"><text>not</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T11:10:33Z" dateModified="2021-10-26T17:32:01Z" id="tinu_f59955b3-22a4-4d10-96e5-a2f94e872850" guid="f59955b3-22a4-4d10-96e5-a2f94e872850">
+<lexical-unit>
+<form lang="ski"><text>tinu</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="1b4388ce-5b70-4355-83d0-9b12ea62f095">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>drink</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-28T12:48:37Z" dateModified="2021-10-28T12:48:37Z" id="awu_f7fdad86-1cff-4ed2-a33f-671311d8a003" guid="f7fdad86-1cff-4ed2-a33f-671311d8a003">
+<lexical-unit>
+<form lang="ski"><text>awu</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="bbea7b5a-c3da-4a26-b7e2-9cc7de75c733">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>dust</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-08T10:17:52Z" dateModified="2021-10-28T12:35:14Z" id="lodoŋ_fbe9de0c-3e12-44c5-befd-7be45553b13f" guid="fbe9de0c-3e12-44c5-befd-7be45553b13f">
+<lexical-unit>
+<form lang="ski"><text>lodoŋ</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<note>
+<form lang="en"><text>for humans (with wi'in)</text></form>
+</note>
+<sense id="c9594f40-972f-4368-b8df-076071795cb1">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>fall</text></gloss>
+<example>
+</example>
+</sense>
+</entry>
+<entry dateCreated="2021-09-25T10:02:33Z" dateModified="2021-10-27T09:44:35Z" id="a&apos;u_fc28e65b-7929-425c-9784-65ca88367e14" guid="fc28e65b-7929-425c-9784-65ca88367e14">
+<lexical-unit>
+<form lang="ski"><text>a'u</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="5cdeaf36-0bdc-4870-b3f9-f179943d1260">
+<grammatical-info value="Pronoun">
+</grammatical-info>
+<gloss lang="en"><text>I</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-29T13:43:36Z" dateModified="2021-10-29T13:43:36Z" id="rëkak_fd61b40b-c077-45ed-996f-a1243482950f" guid="fd61b40b-c077-45ed-996f-a1243482950f">
+<lexical-unit>
+<form lang="ski"><text>rëkak</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="4a4bd4ab-670f-4b2c-b1e8-a8afc70b81c7">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>nether region</text></gloss>
+</sense>
+</entry>
+<entry dateCreated="2021-10-01T15:07:32Z" dateModified="2021-10-26T17:34:10Z" id="ulit_fdc69599-7556-47d1-8bf5-fe7e2f7eedd1" guid="fdc69599-7556-47d1-8bf5-fe7e2f7eedd1">
+<lexical-unit>
+<form lang="ski"><text>ulit</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="5b12c9e8-5e65-4805-ac54-495987b0808f">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>bark</text></gloss>
+</sense>
+</entry>
+</lift>

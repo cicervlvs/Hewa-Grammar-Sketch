@@ -1,0 +1,222 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{edwards_ubb_2018}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=601a581d513a8638b623c2015b1a57c9}{%
+           family={Edwards},
+           familyi={E\bibinitperiod},
+           given={Owen},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0b9b17330b139b99ceaa584680a7965}{%
+           family={UBB},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Marian Klamer}%
+      }
+      \strng{namehash}{f22bba2c928d7d49c23721e90897cce8}
+      \strng{fullhash}{f22bba2c928d7d49c23721e90897cce8}
+      \strng{bibnamehash}{f22bba2c928d7d49c23721e90897cce8}
+      \strng{authorbibnamehash}{f22bba2c928d7d49c23721e90897cce8}
+      \strng{authornamehash}{f22bba2c928d7d49c23721e90897cce8}
+      \strng{authorfullhash}{f22bba2c928d7d49c23721e90897cce8}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Linguistic Maps}
+      \field{title}{Languages of Flores}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://vici.marianklamer.org/linguistic-maps.html
+      \endverb
+      \verb{url}
+      \verb https://vici.marianklamer.org/linguistic-maps.html
+      \endverb
+    \endentry
+    \entry{Fricke2014}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3f0bc7db5bc451cf796b0b9fad761d59}{%
+           family={Fricke},
+           familyi={F\bibinitperiod},
+           given={Hanna},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{location}{1}{%
+        {Muenchen}%
+      }
+      \list{publisher}{1}{%
+        {LINCOM EUROPA}%
+      }
+      \strng{namehash}{3f0bc7db5bc451cf796b0b9fad761d59}
+      \strng{fullhash}{3f0bc7db5bc451cf796b0b9fad761d59}
+      \strng{bibnamehash}{3f0bc7db5bc451cf796b0b9fad761d59}
+      \strng{authorbibnamehash}{3f0bc7db5bc451cf796b0b9fad761d59}
+      \strng{authornamehash}{3f0bc7db5bc451cf796b0b9fad761d59}
+      \strng{authorfullhash}{3f0bc7db5bc451cf796b0b9fad761d59}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783862885299}
+      \field{series}{Languages of the world ; 45. 09128922X}
+      \field{title}{{Topics in the grammar of Hewa : a variety of Sika in Eastern Flores, Indonesia}}
+      \field{year}{2014}
+      \keyw{18.93 Austronesian languages.,Flores.,PL5439.1995.H49,PL5439.1995.H49 F75 2014,Sikka language -- Grammar -- Indonesia -- Hewa}
+    \endentry
+    \entry{fricke_2015}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3f0bc7db5bc451cf796b0b9fad761d59}{%
+           family={Fricke},
+           familyi={F\bibinitperiod},
+           given={Hanna},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3f0bc7db5bc451cf796b0b9fad761d59}
+      \strng{fullhash}{3f0bc7db5bc451cf796b0b9fad761d59}
+      \strng{bibnamehash}{3f0bc7db5bc451cf796b0b9fad761d59}
+      \strng{authorbibnamehash}{3f0bc7db5bc451cf796b0b9fad761d59}
+      \strng{authornamehash}{3f0bc7db5bc451cf796b0b9fad761d59}
+      \strng{authorfullhash}{3f0bc7db5bc451cf796b0b9fad761d59}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{7}
+      \field{title}{Hewa Dictionary}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://archive.mpi.nl/tla/islandora/object/tla%3A1839_33ae4c48_4c24_4f1b_beb7_db58d8e5c04a
+      \endverb
+      \verb{url}
+      \verb https://archive.mpi.nl/tla/islandora/object/tla%3A1839_33ae4c48_4c24_4f1b_beb7_db58d8e5c04a
+      \endverb
+    \endentry
+    \entry{klamer_2015}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ed32b9e4a3d93af2eb1a4ff89be72819}{%
+           family={Klamer},
+           familyi={K\bibinitperiod},
+           given={Marian},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ed32b9e4a3d93af2eb1a4ff89be72819}
+      \strng{fullhash}{ed32b9e4a3d93af2eb1a4ff89be72819}
+      \strng{bibnamehash}{ed32b9e4a3d93af2eb1a4ff89be72819}
+      \strng{authorbibnamehash}{ed32b9e4a3d93af2eb1a4ff89be72819}
+      \strng{authornamehash}{ed32b9e4a3d93af2eb1a4ff89be72819}
+      \strng{authorfullhash}{ed32b9e4a3d93af2eb1a4ff89be72819}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{title}{Word List}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://archive.mpi.nl/tla/islandora/object/tla%3A1839_baa87203_a7a7_41ac_8f50_32333beb1617
+      \endverb
+      \verb{url}
+      \verb https://archive.mpi.nl/tla/islandora/object/tla%3A1839_baa87203_a7a7_41ac_8f50_32333beb1617
+      \endverb
+    \endentry
+    \entry{Lewis1995}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e11926288ac1fcfc8421005dd0949f34}{%
+           family={Lewis},
+           familyi={L\bibinitperiod},
+           given={E.D.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=574b3fda07489bd27cf2cb5e8f3be741}{%
+           family={Grimes},
+           familyi={G\bibinitperiod},
+           given={Charles\bibnamedelima E.},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=c9ca55cdc3540c4002047386b4b59df2}{%
+           family={Tyron},
+           familyi={T\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, New York}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter Mouton}%
+      }
+      \strng{namehash}{ca75317d64b3172fa6061480a79ccc16}
+      \strng{fullhash}{ca75317d64b3172fa6061480a79ccc16}
+      \strng{bibnamehash}{ca75317d64b3172fa6061480a79ccc16}
+      \strng{authorbibnamehash}{ca75317d64b3172fa6061480a79ccc16}
+      \strng{authornamehash}{ca75317d64b3172fa6061480a79ccc16}
+      \strng{authorfullhash}{ca75317d64b3172fa6061480a79ccc16}
+      \strng{editorbibnamehash}{c9ca55cdc3540c4002047386b4b59df2}
+      \strng{editornamehash}{c9ca55cdc3540c4002047386b4b59df2}
+      \strng{editorfullhash}{c9ca55cdc3540c4002047386b4b59df2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Comparative Austronesian Dictionary: An Introduction to Austronesian Studies}
+      \field{title}{{Sika}}
+      \field{year}{1995}
+      \field{pages}{601\bibrangedash 610}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1515/9783110884012.1.601
+      \endverb
+      \verb{file}
+      \verb :C\:/Users/aleja/Estudis/MA Linguistics/Lectures/Field_Methods/Sika_intrduction.pdf:pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
