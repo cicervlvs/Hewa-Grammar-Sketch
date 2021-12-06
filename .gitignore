@@ -295,3 +295,10 @@ TSWLatexianTemp*
 *.glo
 *.blg
 *.aux
+*.blg
+*.blg
+*.glo
+*.log
+*.pdf
+*.gz
+*.bak

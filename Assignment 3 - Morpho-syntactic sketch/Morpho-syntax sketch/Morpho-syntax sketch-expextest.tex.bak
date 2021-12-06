@@ -20,6 +20,7 @@
 \lingset{aboveglftskip=-.2ex,interpartskip=\baselineskip} % per treure l'espai entre glossa i traducció
 \usepackage{leipzig} %glossari automàtic
 \makeglossaries
+\newleipzig[]{Rdp}{rdp}{reduplication}
 
 %\usepackage{longtable}
 \usepackage[table,xcdraw]{xcolor}
@@ -73,7 +74,7 @@ In pronominal phrases, the possessive marker appears on the pronoun, as in (\get
 \a<posspron1sg> %% First part with a tag
 \begingl %% Start glosses
 \gla Lima a'u-n blara//
-\glb hand {\First{}\Sg{}}-\Poss{} hurt//
+\glb hand \First{}\Sg{}-\Poss{} hurt//
 \glft `My hand hurts'//
 \endgl
 
@@ -91,14 +92,14 @@ When the possessor is a full nominal, two different strategies are possible: the
 \a<posspron> %% First part
 \begingl %% start glosses
 \gla Alejandro$_i$ lima nimu$_i$-n blara//
-\glb Alejandro hand 3\textsc{sg}-\textsc{poss} hurt//
+\glb Alejandro hand \Third{}\Sg{}-\Poss{} hurt//
 \glft `Alejandro's hand hurts' // 
 \endgl
 
 \a<posshead> %% Second part
 \begingl %% start glosses
 \gla Alejandro lima-n blara//
-\glb Alejandro hand-\textsc{poss} hurt//
+\glb Alejandro hand-\Poss{} hurt//
 \glft `Alejandro's hand hurts' // 
 \endgl
 \xe
@@ -108,7 +109,7 @@ The latter strategy, that of adding the possessive marker on the possessed noun,
 \ex<assim> %% "main" example needs a tag
 \begingl %% start glosses
 \gla Meong-(n) kekor blara //
-\glb cat-(\textsc{poss}) tail hurts//
+\glb cat-(\Poss{}) tail hurts//
 \glft `The cat's tail hurts' // 
 \endgl
 \xe
@@ -116,7 +117,7 @@ The latter strategy, that of adding the possessive marker on the possessed noun,
 \ex<cantposshead>
 \begingl %% start glosses
 \gla Alejandro bapa' klian 'ia uma//
-\glb Alejandro father work \textsc{loc} rice.field//
+\glb Alejandro father work \Loc{} rice.field//
 \glft `Alejandro's father works in the rice field' // 
 \endgl
 \xe
@@ -145,7 +146,7 @@ As mentioned in section \ref{sec:nphr.intr}, nouns in Hewa are not marked for ca
 \a<act> %% First part with a tag
 \begingl %% Start glosses
 \gla 'Au ulun //
-\glb \textsc{2sg} speak//
+\glb \Second{}\Sg{} speak//
 \glft `You speak'//
 \endgl
 
@@ -191,7 +192,7 @@ Intransitive verbs can change its valency, that is, be made transitives, with th
 \a<du'e'> %% Second part
 \begingl %% start glosses
 \gla A’u bëli {dedi nurak} ‘ia du’e’ ‘ia tepi ‘ia//
-\glb \First{}\Sg{} give baby \textsc{def} lie \textsc{LOC} cot \textsc{def}//
+\glb \First{}\Sg{} give baby \textsc{def} lie \Loc{} cot \textsc{def}//
 \glft `I put the baby to sleep on the bed' (lit. `I give the baby lying on the bed')// 
 \endgl
 \xe
@@ -264,7 +265,7 @@ While no verbs inflect for tense or mood, there is a certain subset of verbs tha
 \toprule
 {\color[HTML]{6665CD} }                               & {\color[HTML]{6665CD} }                        & {\color[HTML]{00D2CB} \textsc{1pl.excl}} & {\color[HTML]{00D2CB} gita'} \\
 \multirow{-2}{*}{{\color[HTML]{6665CD} \First{}\Sg}} & \multirow{-2}{*}{{\color[HTML]{6665CD} 'ita'}} & {\color[HTML]{6665CD} \textsc{1pl.incl}} & {\color[HTML]{6665CD} 'ita'} \\
-{\color[HTML]{00D2CB} \textsc{2sg}}                   & {\color[HTML]{00D2CB} gita'}                   & {\color[HTML]{6665CD} \textsc{2pl}}      & {\color[HTML]{6665CD} 'ita'} \\
+{\color[HTML]{00D2CB} \Second{}\Sg{}}                   & {\color[HTML]{00D2CB} gita'}                   & {\color[HTML]{6665CD} \textsc{2pl}}      & {\color[HTML]{6665CD} 'ita'} \\
 {\color[HTML]{00D2CB} \textsc{3sg}}                   & {\color[HTML]{00D2CB} gita'}                   & {\color[HTML]{6665CD} \textsc{3pl}}      & {\color[HTML]{6665CD} 'ita'} \\ \bottomrule
 \end{tabular}
 \end{table}
@@ -280,7 +281,7 @@ There is also one verb attested so far which appears to be completely irregular 
 \toprule
 \multirow{2}{*}{\First{}\Sg} & \multirow{2}{*}{\textit{'oa}} & \textsc{1pl.excl} & \textit{gea} \\
                               &                               & \textsc{1pl.incl} & \textit{'ea} \\
-\textsc{2sg}                  & \textit{goa}                  & \textsc{2pl}      & \textit{'a}  \\
+\Second{}\Sg{}                  & \textit{goa}                  & \textsc{2pl}      & \textit{'a}  \\
 \textsc{3sg}                  & \textit{'ea}                  & \textsc{3pl}      & \textit{'a}  \\ \bottomrule
 \end{tabular}
 \end{table}
@@ -330,7 +331,7 @@ There seems to be a distinction between two types of existential negation. The f
 \ex<exneg>
 \begingl %% start glosses
 \gla E'on noran i'an iwa 'ia napun//
-\glb \textsc{neg} have fish \textsc{neg} \textsc{loc} river//
+\glb \textsc{neg} have fish \textsc{neg} \Loc{} river//
 \glft `There are no fish in the river' // 
 \endgl
 \xe
@@ -356,7 +357,7 @@ Negative imperatives are expressed by preposing \textit{opo} to the verb, as ill
 \a<goa> %% Second part
 \begingl %% start glosses
 \gla Opo goa!//
-\glb \textsc{proh} eat.\textsc{2sg}//
+\glb \textsc{proh} eat.\Second{}\Sg{}//
 \glft `Don't eat!'// 
 \endgl
 \xe
@@ -370,7 +371,7 @@ In polar questions, the particle \textit{ko} may be added to express disbelief i
 \ex<ko>
 \begingl %% start glosses
 \gla Lëpo rimu-n gëte ko?//
-\glb house 3\textsc{pl}-\textsc{poss} big \textsc{disb}//
+\glb house 3\textsc{pl}-\Poss{} big \textsc{disb}//
 \glft `Is their house actually big?' // 
 \endgl 
 \xe
@@ -381,21 +382,21 @@ For open ended questions, interrogative pronouns are used. Thesemay appear at va
 \a<umur>
 \begingl %% start glosses
 \gla 'Umur meong 'au-n pira?//
-\glb age cat 2\textsc{sg}-\textsc{poss} how.many//
+\glb age cat \Second{}\Sg{}-\Poss{} how.many//
 \glft `What age is your cat?' // 
 \endgl 
 
 \a<goa> %% Second part
 \begingl %% start glosses
 \gla Meong 'au-n umur pira?//
-\glb cat \textsc{2sg}-\textsc{poss} age how.many//
+\glb cat \Second{}\Sg{}-\Poss{} age how.many//
 \glft `How old is your cat?'// 
 \endgl
 
 \a<goa> %% Second part
 \begingl %% start glosses
 \gla Umur pira meong 'aun?//
-\glb age how.many cat \textsc{2sg}-\textsc{poss}//
+\glb age how.many cat \Second{}\Sg{}-\Poss{}//
 \glft `How old is your cat?'// 
 \endgl
 \xe
@@ -420,7 +421,7 @@ Inanimate entities are questioned with \textit{apa} `what', as illustrated in (\
 \ex<what>
 \begingl %% start glosses
 \gla 'au dëna apa? //
-\glb 2\textsc{sg} do what//
+\glb \Second{}\Sg{} do what//
 \glft `What are you doing?' // 
 \endgl
 \xe
@@ -431,7 +432,7 @@ Quantity is questioned with the pronoun \textit{pira} `how many/how much'.
 \ex<howmany>
 \begingl %% start glosses
 \gla Umur meong 'au-n pira?//
-\glb age cat 2\textsc{sg}-\textsc{poss} how.many//
+\glb age cat \Second{}\Sg{}-\Poss{} how.many//
 \glft `What age is your cat?' // 
 \endgl 
 \xe
@@ -442,7 +443,7 @@ Places are questioned with the pronoun \textit{upa} `where', as illustrated in (
 \ex<where>
 \begingl %% start glosses
 \gla Natar 'au-n upa? //
-\glb village \textsc{2sg}-\textsc{poss} where //
+\glb village \Second{}\Sg{}-\Poss{} where //
 \glft `Where is your village?' // 
 \endgl
 \xe 
@@ -455,7 +456,7 @@ Time is questioned with the composite pronoun \textit{rama pira} `when', as illu
 \ex<when>
 \begingl %% start glosses
 \gla {rama pira} 'ia wulan pasak i'an //
-\glb when \textsc{LOC} month fish(\textsc{v}) fish(\textsc{n})//
+\glb when \Loc{} month fish(\textsc{v}) fish(\textsc{n})//
 \glft `When is the fishing season?' // 
 \endgl
 \xe
@@ -467,7 +468,7 @@ Imperatives are expressed by using the second person form of the verb, without t
 \ex<imp>
 \begingl %% start glosses
 \gla Goa!//
-\glb eat.\textsc{2sg}//
+\glb eat.\Second{}\Sg{}//
 \glft `Eat!' //
 \endgl
 \xe
@@ -475,7 +476,7 @@ Imperatives are expressed by using the second person form of the verb, without t
 \ex<impred>
 \begingl %% start glosses
 \gla Ninu\textasciitilde ninu!//
-\glb drink.\textsc{2sg}\textasciitilde \textsc{rdp}//
+\glb drink.\Second{}\Sg{}\textasciitilde \Rdp{}//
 \glft `Drink!' // 
 \endgl
 \xe
