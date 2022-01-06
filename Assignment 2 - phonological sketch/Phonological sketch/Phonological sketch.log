@@ -1,40 +1,39 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.7) (preloaded format=xelatex 2021.9.17)  22 NOV 2021 17:01
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.12.10) (preloaded format=xelatex 2022.1.6)  6 JAN 2022 20:20
 entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
 **"./Phonological sketch.tex"
 (Phonological sketch.tex
-LaTeX2e <2021-06-01> patch level 1
-L3 programming layer <2021-07-12>
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2021-11-22>
 (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
-(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
-File: size12.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count178
-\c@section=\count179
-\c@subsection=\count180
-\c@subsubsection=\count181
-\c@paragraph=\count182
-\c@subparagraph=\count183
-\c@figure=\count184
-\c@table=\count185
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
 (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2021/06/28 3.61 The Babel package
-
-(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
-File: babel.def 2021/06/28 3.61 Babel common definitions
-\babel@savecnt=\count186
+Package: babel 2021/11/29 3.67 The Babel package
+\babel@savecnt=\count187
 \U@D=\dimen139
 \l@unhyphenated=\language79
 
 (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/generic/babel\xebabel.def
 (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def))
 \bbl@readstream=\read2
-)
-\bbl@dirlevel=\count187
+\bbl@dirlevel=\count188
+
 *************************************
 * Local config file bblopts.cfg used
 *
@@ -68,18 +67,18 @@ Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
 
 (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count188
+\etb@tempcnta=\count189
 )
 (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-\csq@reset=\count189
-\csq@gtype=\count190
-\csq@glevel=\count191
-\csq@qlevel=\count192
-\csq@maxlvl=\count193
-\csq@tshold=\count194
+\csq@reset=\count190
+\csq@gtype=\count191
+\csq@glevel=\count192
+\csq@qlevel=\count193
+\csq@maxlvl=\count194
+\csq@tshold=\count195
 \csq@ltx@everypar=\toks17
 
 (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
@@ -121,7 +120,7 @@ ty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )) (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count195
+\lrq@indent=\count196
 
 (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -133,48 +132,48 @@ Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count196
-\c@listtotal=\count197
-\c@listcount=\count198
-\c@liststart=\count199
-\c@liststop=\count266
-\c@citecount=\count267
-\c@citetotal=\count268
-\c@multicitecount=\count269
-\c@multicitetotal=\count270
-\c@instcount=\count271
-\c@maxnames=\count272
-\c@minnames=\count273
-\c@maxitems=\count274
-\c@minitems=\count275
-\c@citecounter=\count276
-\c@maxcitecounter=\count277
-\c@savedcitecounter=\count278
-\c@uniquelist=\count279
-\c@uniquename=\count280
-\c@refsection=\count281
-\c@refsegment=\count282
-\c@maxextratitle=\count283
-\c@maxextratitleyear=\count284
-\c@maxextraname=\count285
-\c@maxextradate=\count286
-\c@maxextraalpha=\count287
-\c@abbrvpenalty=\count288
-\c@highnamepenalty=\count289
-\c@lownamepenalty=\count290
-\c@maxparens=\count291
-\c@parenlevel=\count292
-\blx@tempcnta=\count293
-\blx@tempcntb=\count294
-\blx@tempcntc=\count295
-\blx@maxsection=\count296
-\blx@maxsegment@0=\count297
-\blx@notetype=\count298
-\blx@parenlevel@text=\count299
-\blx@parenlevel@foot=\count300
-\blx@sectionciteorder@0=\count301
-\blx@entrysetcounter=\count302
-\blx@biblioinstance=\count303
+\c@tabx@nest=\count197
+\c@listtotal=\count198
+\c@listcount=\count199
+\c@liststart=\count266
+\c@liststop=\count267
+\c@citecount=\count268
+\c@citetotal=\count269
+\c@multicitecount=\count270
+\c@multicitetotal=\count271
+\c@instcount=\count272
+\c@maxnames=\count273
+\c@minnames=\count274
+\c@maxitems=\count275
+\c@minitems=\count276
+\c@citecounter=\count277
+\c@maxcitecounter=\count278
+\c@savedcitecounter=\count279
+\c@uniquelist=\count280
+\c@uniquename=\count281
+\c@refsection=\count282
+\c@refsegment=\count283
+\c@maxextratitle=\count284
+\c@maxextratitleyear=\count285
+\c@maxextraname=\count286
+\c@maxextradate=\count287
+\c@maxextraalpha=\count288
+\c@abbrvpenalty=\count289
+\c@highnamepenalty=\count290
+\c@lownamepenalty=\count291
+\c@maxparens=\count292
+\c@parenlevel=\count293
+\blx@tempcnta=\count294
+\blx@tempcntb=\count295
+\blx@tempcntc=\count296
+\blx@maxsection=\count297
+\blx@maxsegment@0=\count298
+\blx@notetype=\count299
+\blx@parenlevel@text=\count300
+\blx@parenlevel@foot=\count301
+\blx@sectionciteorder@0=\count302
+\blx@entrysetcounter=\count303
+\blx@biblioinstance=\count304
 \labelnumberwidth=\skip49
 \labelalphawidth=\skip50
 \biblabelsep=\skip51
@@ -186,9 +185,9 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \blx@bcfin=\read3
 \blx@bcfout=\write3
 \blx@langwohyphens=\language80
-\c@mincomprange=\count304
-\c@maxcomprange=\count305
-\c@mincompwidth=\count306
+\c@mincomprange=\count305
+\c@maxcomprange=\count306
+\c@mincompwidth=\count307
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -203,86 +202,86 @@ File: apa.dbx 2020/08/28 v9.14 APA biblatex style data model
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count307
-\c@savedafterword=\count308
-\c@annotator=\count309
-\c@savedannotator=\count310
-\c@author=\count311
-\c@savedauthor=\count312
-\c@bookauthor=\count313
-\c@savedbookauthor=\count314
-\c@commentator=\count315
-\c@savedcommentator=\count316
-\c@editor=\count317
-\c@savededitor=\count318
-\c@editora=\count319
-\c@savededitora=\count320
-\c@editorb=\count321
-\c@savededitorb=\count322
-\c@editorc=\count323
-\c@savededitorc=\count324
-\c@foreword=\count325
-\c@savedforeword=\count326
-\c@holder=\count327
-\c@savedholder=\count328
-\c@introduction=\count329
-\c@savedintroduction=\count330
-\c@namea=\count331
-\c@savednamea=\count332
-\c@nameb=\count333
-\c@savednameb=\count334
-\c@namec=\count335
-\c@savednamec=\count336
-\c@translator=\count337
-\c@savedtranslator=\count338
-\c@shortauthor=\count339
-\c@savedshortauthor=\count340
-\c@shorteditor=\count341
-\c@savedshorteditor=\count342
-\c@groupauthor=\count343
-\c@savedgroupauthor=\count344
-\c@narrator=\count345
-\c@savednarrator=\count346
-\c@execproducer=\count347
-\c@savedexecproducer=\count348
-\c@execdirector=\count349
-\c@savedexecdirector=\count350
-\c@with=\count351
-\c@savedwith=\count352
-\c@labelname=\count353
-\c@savedlabelname=\count354
-\c@institution=\count355
-\c@savedinstitution=\count356
-\c@lista=\count357
-\c@savedlista=\count358
-\c@listb=\count359
-\c@savedlistb=\count360
-\c@listc=\count361
-\c@savedlistc=\count362
-\c@listd=\count363
-\c@savedlistd=\count364
-\c@liste=\count365
-\c@savedliste=\count366
-\c@listf=\count367
-\c@savedlistf=\count368
-\c@location=\count369
-\c@savedlocation=\count370
-\c@organization=\count371
-\c@savedorganization=\count372
-\c@origlocation=\count373
-\c@savedoriglocation=\count374
-\c@origpublisher=\count375
-\c@savedorigpublisher=\count376
-\c@publisher=\count377
-\c@savedpublisher=\count378
-\c@language=\count379
-\c@savedlanguage=\count380
-\c@origlanguage=\count381
-\c@savedoriglanguage=\count382
-\c@citation=\count383
-\c@savedcitation=\count384
-\c@pageref=\count385
-\c@savedpageref=\count386
+\c@afterword=\count308
+\c@savedafterword=\count309
+\c@annotator=\count310
+\c@savedannotator=\count311
+\c@author=\count312
+\c@savedauthor=\count313
+\c@bookauthor=\count314
+\c@savedbookauthor=\count315
+\c@commentator=\count316
+\c@savedcommentator=\count317
+\c@editor=\count318
+\c@savededitor=\count319
+\c@editora=\count320
+\c@savededitora=\count321
+\c@editorb=\count322
+\c@savededitorb=\count323
+\c@editorc=\count324
+\c@savededitorc=\count325
+\c@foreword=\count326
+\c@savedforeword=\count327
+\c@holder=\count328
+\c@savedholder=\count329
+\c@introduction=\count330
+\c@savedintroduction=\count331
+\c@namea=\count332
+\c@savednamea=\count333
+\c@nameb=\count334
+\c@savednameb=\count335
+\c@namec=\count336
+\c@savednamec=\count337
+\c@translator=\count338
+\c@savedtranslator=\count339
+\c@shortauthor=\count340
+\c@savedshortauthor=\count341
+\c@shorteditor=\count342
+\c@savedshorteditor=\count343
+\c@groupauthor=\count344
+\c@savedgroupauthor=\count345
+\c@narrator=\count346
+\c@savednarrator=\count347
+\c@execproducer=\count348
+\c@savedexecproducer=\count349
+\c@execdirector=\count350
+\c@savedexecdirector=\count351
+\c@with=\count352
+\c@savedwith=\count353
+\c@labelname=\count354
+\c@savedlabelname=\count355
+\c@institution=\count356
+\c@savedinstitution=\count357
+\c@lista=\count358
+\c@savedlista=\count359
+\c@listb=\count360
+\c@savedlistb=\count361
+\c@listc=\count362
+\c@savedlistc=\count363
+\c@listd=\count364
+\c@savedlistd=\count365
+\c@liste=\count366
+\c@savedliste=\count367
+\c@listf=\count368
+\c@savedlistf=\count369
+\c@location=\count370
+\c@savedlocation=\count371
+\c@organization=\count372
+\c@savedorganization=\count373
+\c@origlocation=\count374
+\c@savedoriglocation=\count375
+\c@origpublisher=\count376
+\c@savedorigpublisher=\count377
+\c@publisher=\count378
+\c@savedpublisher=\count379
+\c@language=\count380
+\c@savedlanguage=\count381
+\c@origlanguage=\count382
+\c@savedoriglanguage=\count383
+\c@citation=\count384
+\c@savedcitation=\count385
+\c@pageref=\count386
+\c@savedpageref=\count387
 \shorthandwidth=\skip57
 \shortjournalwidth=\skip58
 \shortserieswidth=\skip59
@@ -312,19 +311,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
-\c@textcitecount=\count387
-\c@textcitetotal=\count388
-\c@textcitemaxnames=\count389
-\c@biburlbigbreakpenalty=\count390
-\c@biburlbreakpenalty=\count391
-\c@biburlnumpenalty=\count392
-\c@biburlucpenalty=\count393
-\c@biburllcpenalty=\count394
+\c@textcitecount=\count388
+\c@textcitetotal=\count389
+\c@textcitemaxnames=\count390
+\c@biburlbigbreakpenalty=\count391
+\c@biburlbreakpenalty=\count392
+\c@biburlnumpenalty=\count393
+\c@biburlucpenalty=\count394
+\c@biburllcpenalty=\count395
 \biburlbigskip=\muskip17
 \biburlnumskip=\muskip18
 \biburlucskip=\muskip19
 \biburllcskip=\muskip20
-\c@smartand=\count395
+\c@smartand=\count396
 )
 Package biblatex Info: Trying to load natbib compatibility...
 Package biblatex Info: ... file 'blx-natbib.def' found.
@@ -344,8 +343,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
 bx
 File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count396
-\c@bbx:relatedtotal=\count397
+\c@bbx:relatedcount=\count397
+\c@bbx:relatedtotal=\count398
 ))
 Package biblatex Info: Trying to load citation style 'apa'...
 Package biblatex Info: ... file 'apa.cbx' found.
@@ -380,11 +379,44 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
 File: biblatex.cfg 
 )) (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/tools\varioref.sty
-Package: varioref 2020/08/11 v1.6e package for extended references (FMi)
-\c@vrcnt=\count398
+Package: varioref 2021/07/07 v1.6f package for extended references (FMi)
+\c@vrcnt=\count399
 )
-(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\tgtermes.sty
-Package: tgtermes 2009/09/27 v1.2 TeX Gyre Termes as default roman family
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\mathptmx.sty
+Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
 )
 (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/tipa\tipa.sty
 Package: tipa 2002/08/08 TIPA version 1.1
@@ -394,21 +426,18 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 
 (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/tipa\t3enc.def
 File: t3enc.def 2001/12/31 T3 encoding
-LaTeX Font Info:    Trying to load font information for T1+qtm on input line 31
-6.
-
-(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\t1qtm.fd
-File: t1qtm.fd 2009/09/25 v1.2 font definition file for T1/qtm
-)
-
-LaTeX Font Warning: Font shape `T1/qtm/m/sl' in size <12> not available
-(Font)              Font shape `T1/qtm/m/it' tried instead on input line 316.
-
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 3
 57.
+
 (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
-))))
+))
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 11
+2.
+
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)))
 (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/linguex\linguex.sty
 Package: linguex 2013/05/28 Example formatting for linguistics v. 4.3
 
@@ -425,11 +454,11 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \gline=\box56
 \glossglue=\skip71
 )
-\c@ExNo=\count399
-\c@SubExNo=\count400
-\c@SubSubExNo=\count401
-\c@FnExNo=\count402
-\c@ABC=\count403
+\c@ExNo=\count400
+\c@SubExNo=\count401
+\c@SubSubExNo=\count402
+\c@FnExNo=\count403
+\c@ABC=\count404
 \currentlabel=\skip72
 \lessthanten=\skip73
 \lessthanhundred=\skip74
@@ -445,47 +474,47 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \Exredux=\skip84
 \digitwidth=\skip85
 \mindigitwidth=\skip86
-\c@ExDepth=\count404
-\c@TempExDepth=\count405
+\c@ExDepth=\count405
+\c@TempExDepth=\count406
 \CollectTokens=\toks18
 LaTeX Info: Redefining \b on input line 307.
 LaTeX Info: Redefining \c on input line 311.
 LaTeX Info: Redefining \d on input line 313.
-\c@tmpaEx=\count406
+\c@tmpaEx=\count407
 )
 (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
-Package: longtable 2021-05-07 v4.16 Multi-page Table package (DPC)
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
 \LTleft=\skip87
 \LTright=\skip88
 \LTpre=\skip89
 \LTpost=\skip90
-\LTchunksize=\count407
+\LTchunksize=\count408
 \LTcapwidth=\dimen140
 \LT@head=\box57
 \LT@firsthead=\box58
 \LT@foot=\box59
 \LT@lastfoot=\box60
 \LT@gbox=\box61
-\LT@cols=\count408
-\LT@rows=\count409
-\c@LT@tables=\count410
-\c@LT@chunks=\count411
+\LT@cols=\count409
+\LT@rows=\count410
+\c@LT@tables=\count411
+\c@LT@chunks=\count412
 \LT@p@ftn=\toks19
 )
 (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
 
 (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Driver file: xetex.def on input line 227.
 (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
 File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
 ) (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
 Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
 
 (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
-Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
 \col@sep=\dimen141
 \ar@mcellbox=\box62
 \extrarowheight=\dimen142
@@ -497,20 +526,20 @@ Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
 \everycr=\toks21
 \minrowclearance=\skip93
 )
-\rownum=\count412
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `RGB' extended on input line 1364.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+\rownum=\count413
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
 )
 (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip94
-\multirow@cntb=\count413
+\multirow@cntb=\count414
 \multirow@dima=\skip95
 \bigstrutjot=\dimen143
 )
@@ -543,16 +572,16 @@ Package csquotes Info: Redefining alias 'default' -> 'american'.
 
 (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xet
 ex.def
-File: l3backend-xetex.def 2021-07-12 L3 backend support: XeTeX
+File: l3backend-xetex.def 2021-12-14 L3 backend support: XeTeX
  ()
-\c__kernel_sys_dvipdfmx_version_int=\count414
-\l__color_backend_stack_int=\count415
-\g__color_backend_stack_int=\count416
-\g__graphics_track_int=\count417
+\c__kernel_sys_dvipdfmx_version_int=\count415
+\l__color_backend_stack_int=\count416
+\g__color_backend_stack_int=\count417
+\g__graphics_track_int=\count418
 \l__pdf_internal_box=\box65
-\g__pdf_backend_object_int=\count418
-\g__pdf_backend_annotation_int=\count419
-\g__pdf_backend_link_int=\count420
+\g__pdf_backend_object_int=\count419
+\g__pdf_backend_annotation_int=\count420
+\g__pdf_backend_link_int=\count421
 ) (Phonological sketch.aux)
 \openout1 = `"Phonological sketch.aux"'.
 
@@ -643,10 +672,10 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Document encoding is UTF8 ....
 
 (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2021-07-12 L3 programming layer (loader) 
+Package: expl3 2021-11-22 L3 programming layer (loader) 
 )
 Package biblatex Info: ... and expl3
-(biblatex)             2021-07-12 L3 programming layer (loader) 
+(biblatex)             2021-11-22 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
@@ -654,7 +683,7 @@ Package biblatex Info: ... and expl3
 .sty
 (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
 e.sty
-Package: xparse 2021-06-18 L3 Experimental document command parser
+Package: xparse 2021-11-12 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
 )
@@ -665,56 +694,84 @@ Package biblatex Info: ... file '"Phonological sketch".bbl' found.
  (Phonological sketch.bbl)
 Package biblatex Info: Reference section=0 on input line 34.
 Package biblatex Info: Reference segment=0 on input line 34.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 36.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 36.
-LaTeX Font Info:    Trying to load font information for T3+qtm on input line 47
+\big@size=\dimen150
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
+ 36.
+
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
+ 36.
+
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
+ 36.
+
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
+ 36.
+
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
+6.
+
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
+LaTeX Font Info:    Trying to load font information for T3+ptm on input line 47
 .
-LaTeX Font Info:    No file T3qtm.fd. on input line 47.
 
-
-LaTeX Font Warning: Font shape `T3/qtm/m/n' undefined
-(Font)              using `T3/cmr/m/n' instead on input line 47.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 47.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 47.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 47.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 47.
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/tipa\t3ptm.fd
+File: t3ptm.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
 
 Underfull \hbox (badness 10000) in paragraph at lines 47--49
 
  []
 
-Missing character: There is no • in font ec-qtmr!
-Missing character: There is no • in font ec-qtmr!
-Missing character: There is no • in font ec-qtmr!
-Missing character: There is no • in font ec-qtmr!
-Missing character: There is no • in font ec-qtmr!
-Missing character: There is no • in font ec-qtmr!
-Missing character: There is no • in font ec-qtmr!
-Missing character: There is no • in font ec-qtmr!
-Missing character: There is no • in font ec-qtmr!
-Missing character: There is no • in font ec-qtmr!
-Missing character: There is no • in font ec-qtmr!
-Missing character: There is no • in font ec-qtmr!
-Missing character: There is no • in font ec-qtmr!
-Missing character: There is no • in font ec-qtmr!
-Missing character: There is no • in font ec-qtmr!
-Missing character: There is no • in font ec-qtmr!
-Missing character: There is no • in font ec-qtmr!
-Missing character: There is no • in font ec-qtmr!
-Missing character: There is no • in font ec-qtmr!
-Missing character: There is no • in font ec-qtmr!
-
-Overfull \hbox (3.86789pt too wide) in paragraph at lines 52--72
-[][] 
- []
-
+Missing character: There is no • in font ptmr8t!
+Missing character: There is no • in font ptmr8t!
+Missing character: There is no • in font ptmr8t!
+Missing character: There is no • in font ptmr8t!
+Missing character: There is no • in font ptmr8t!
+Missing character: There is no • in font ptmr8t!
+Missing character: There is no • in font ptmr8t!
+Missing character: There is no • in font ptmr8t!
+Missing character: There is no • in font ptmr8t!
+Missing character: There is no • in font ptmr8t!
+Missing character: There is no • in font ptmr8t!
+Missing character: There is no • in font ptmr8t!
+Missing character: There is no • in font ptmr8t!
+Missing character: There is no • in font ptmr8t!
+Missing character: There is no • in font ptmr8t!
+Missing character: There is no • in font ptmr8t!
+Missing character: There is no • in font ptmr8t!
+Missing character: There is no • in font ptmr8t!
+Missing character: There is no • in font ptmr8t!
+Missing character: There is no • in font ptmr8t!
 [1
 
 ]
@@ -722,56 +779,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 91--92
 
  []
 
-Missing character: There is no • in font ec-qtmr!
-Missing character: There is no • in font ec-qtmr!
-Missing character: There is no • in font ec-qtmr!
-Missing character: There is no • in font ec-qtmr!
+Missing character: There is no • in font ptmr8t!
+Missing character: There is no • in font ptmr8t!
+Missing character: There is no • in font ptmr8t!
+Missing character: There is no • in font ptmr8t!
 
-LaTeX Font Warning: Font shape `T3/qtm/m/it' undefined
-(Font)              using `T3/qtm/m/n' instead
-(Font)              for symbol `textglotstop' on input line 117.
+LaTeX Font Warning: Font shape `T3/ptm/m/it' in size <10> not available
+(Font)              Font shape `T3/ptm/m/sl' tried instead on input line 117.
 
-[2]
-LaTeX Font Info:    Trying to load font information for TS1+qtm on input line 1
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
 26.
- (C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\ts1qtm.fd
-File: ts1qtm.fd 2009/09/25 v1.2 font definition file for TS1/qtm
+(C:\Users\aleja\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-
-LaTeX Font Warning: Font shape `T3/qtm/b/n' undefined
-(Font)              using `T3/qtm/m/n' instead
-(Font)              for symbol `textglotstop' on input line 140.
-
-[3] [4]
-Missing character: There is no ŋ in font ec-qtmr!
-Missing character: There is no ŋ in font ec-qtmr!
- [5]
-
-Package longtable Warning: Column widths have changed
-(longtable)                in table 3 on input line 422.
-
-[6] [7] [8] [9] [10]
-
-Package longtable Warning: Table widths have changed. Rerun LaTeX.
-
-[11] (Phonological sketch.aux)
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+[2] [3]
+Missing character: There is no ŋ in font ptmr8t!
+Missing character: There is no ŋ in font ptmr8t!
+[4] [5] [6] [7] [8] [9] (Phonological sketch.aux)
 Package logreq Info: Writing requests to '"Phonological sketch".run.xml'.
 \openout1 = `"Phonological sketch.run.xml"'.
 
  ) 
 Here is how much of TeX's memory you used:
- 13140 strings out of 411279
- 227392 string characters out of 2829030
- 1185931 words of memory out of 3000000
- 33430 multiletter control sequences out of 15000+600000
- 445018 words of font info for 55 fonts, out of 8000000 for 9000
+ 13768 strings out of 411044
+ 246197 string characters out of 2825394
+ 1177549 words of memory out of 3000000
+ 34264 multiletter control sequences out of 15000+600000
+ 461226 words of font info for 96 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 61i,14n,74p,756b,5011s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 59i,14n,75p,756b,5011s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Phonological sketch.pdf (11 pages).
+Output written on Phonological sketch.pdf (9 pages).

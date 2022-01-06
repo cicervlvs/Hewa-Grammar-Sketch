@@ -1,14 +1,17 @@
 \documentclass{article}
 
 \usepackage[american]{babel}
-%\usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[english=american]{csquotes}
 
 \usepackage[style=apa, backend=biber, natbib=true]{biblatex}
 \addbibresource{C:/Users/aleja/Bibtex/library.bib}
+\addbibresource{Bibliography/misc.bib}
 
-\usepackage{tgtermes} %times font
+\usepackage[subpreambles=true]{standalone}
+\usepackage{import} %com input, però millor per a standalone
+
+\usepackage{mathptmx} %times font
 \usepackage[T1]{tipa} %notació fonètica IPA
 \usepackage{linguex} %exemples lingüístics
 \usepackage{multirow} %taules
@@ -22,10 +25,6 @@
 \setlength{\textfloatsep}{22pt plus 1.0pt minus 2.0pt}
 
 
-\usepackage[style=apa, backend=biber, natbib=true]{biblatex}
-\addbibresource{C:/Users/aleja/Bibtex/library.bib}
-\addbibresource{misc.bib}
-
 \usepackage{titlesec}
 \usepackage{titletoc}
 \setcounter{secnumdepth}{5}
@@ -37,9 +36,21 @@
 
 \begin{document}
 
-\include{•}
+%\makeglossaries
 
-\include{Phonological sketch.tex}
+\section{Introduction}
+\import{Sections/Introduction}{Introduction-final}
 
+\section{Phonology}
+\import{Sections/Phonology}{Phonology-safe}
+
+\section{Morpho-syntax}
+
+\appendix
+\section{Hewa text: description of activities to do in and around the Village of Hewa}
+
+\section{Hewa wordlist}
+
+\printbibliography
 
 \end{document}

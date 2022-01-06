@@ -1,0 +1,207 @@
+\documentclass[subpreambles=true]{standalone}
+
+\usepackage[american]{babel}
+%\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english=american]{csquotes}
+
+\usepackage[style=apa, backend=biber, natbib=true]{biblatex}
+\addbibresource{C:/Users/aleja/Bibtex/library.bib}
+
+\usepackage[american]{varioref}
+\usepackage{tgtermes} %times font
+\usepackage[T1]{tipa} %notació fonètica IPA
+\usepackage{linguex} %exemples lingüístics
+\usepackage{multirow} %taules
+
+\usepackage{titlesec}
+\usepackage{titletoc}
+\setcounter{secnumdepth}{5}
+\setcounter{tocdepth}{5}
+
+\ifstandalone
+\titleformat{\paragraph} [hang] {\normalfont\normalsize\bfseries} {\theparagraph} {1em} {}
+
+\title{A Phonological Sketch of Hewa}
+\fi
+
+\begin{document}
+
+\ifstandalone
+\section{Phonology}
+\fi
+
+In this section, the basic phonology of Hewa is outlined. In section \ref{sec:inv}, the consonant and vowel inventories are given. In section \ref{sec:spel}, the spelling system is presented. Section \ref{sec:contr} shows (near)- minimal pairs to give evidence for the contrasts among different phonemes. Section \ref{sec:syl} gives an overview of the syllable structure and phonotactics. Section \ref{sec:str} briefly discusses stress patterns. Finally, a list of the vocabulary compiled so far is presented.
+
+
+\subsection{Phoneme inventory}\label{sec:inv}
+
+\subsubsection{Consonants}\label{sec:cons}
+
+Our consultant on Hewa shows 15 contrasting consonants, shown in table \ref{tab:cons} below. The affricate /\texttoptiebar{d\textipa{Z}}/ so far only appears in the lexical item \textit{medja} `table', which is a borrowing from Indonesian in turn borrowed from Portuguese.\footnote{See section \ref{sec:spel} for orthographic conventions.} 
+ All consonants on the chart can appear in onset position (see section \ref{sec:syl} for the restrictions on coda position).\\
+
+\begin{table}[h!]
+
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline 
+• & Bilabial & Dental/Alveolar & Postalveolar & Velar & Glottal \\ 
+\hline 
+Voiceless plosives & p & t & • & k & \textglotstop \\ 
+\hline 
+Voiced plosives & b & d & • & g & • \\ 
+\hline 
+Affricates & • & • & (\texttoptiebar{d\textipa{Z}}) & • & • \\ 
+\hline 
+Fricatives & \textbeta & s & • & • & h \\ 
+\hline 
+Nasals & m & n & • & \textipa{N} & • \\ 
+\hline 
+Laterals & • & l & • & • & • \\ 
+\hline 
+Rhotics & • & r & • & • & • \\ 
+\hline 
+
+\end{tabular} 
+\caption{Contrasting consonants in Hewa}
+\label{tab:cons}
+\end{table} 
+
+The dental plosives /t/ and /d/ appear as a retroflex [\textrtaild ] and [\textrtailt ] in certain positions; their distribution needs more research.
+
+The rhotic /r/ seems to always appear as a trill. There is no contrast between a trilled and a tapped rhotic /\textfishhookr /.
+
+The acoustic properties of the bilabial fricative /\textbeta / are unclear; further analysis could result in its reclassification as a labiodental approximant /\textscriptv /.
+
+\paragraph{Consonant sequences and clusters}
+
+Consonants rarely appear together within a word (see section \ref{sec:syl} as to why). The only two consonant combinations attested so far, be it  clusters or sequences, happening within the word are the clusters [pl], [bl], and [kl] in words such as \textit{plëka} `to cut', \textit{blon} `long', and \textit{kleren} `branches'.
+
+More data is needed to describe how consonants act when in contact across word boundaries.
+
+
+\subsubsection{Vowels}\label{sec:vow}
+
+Our consultant shows six distinctive vowel sounds, with /\textschwa/ being restricted to the first syllable in between certain consonant combinations. All vowels become long in word initial position in open syllables, as well as in final position in monosyllabic words. \\
+
+\begin{table}[h!]
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|}
+\hline 
+• & Front & Central & Back \\ 
+\hline 
+High & i & • & u \\ 
+\hline 
+Mid & e & \textschwa & o \\ 
+\hline 
+Low & • & a & • \\ 
+\hline 
+
+\end{tabular} 
+\caption{Contrasting vowels in Hewa}
+\label{tab:vow}
+\end{center}
+\end{table}
+
+
+\paragraph{Vowel combinations}
+
+Vowels often appear next to one another within a word, but rarely become a diphthong, instead often making up separate syllables, at least in careful speech. The only confirmed diphthong is in the word \textit{blau'} ([\textit{blaw\textglotstop}]) `to fear', which seems to be constrained by the final glottal stop. More data is needed to characterize the interaction of vowels across word boundaries.
+
+
+\subsection{Spelling system}\label{sec:spel}
+
+For the present sketch grammar, I have decided to design a simple orthography by which those sounds whose IPA representation does not correspond directly to a Latin alphabet grapheme are represented in the following way:
+
+\begin{itemize}
+
+\item <'> for the glottal stop /\textglotstop /
+\item <w> for the bilabial fricative /\textbeta /
+\item <ng> for the nasal velar /\textipa{N}/
+\item <dj> for the post-alveolar affricate /\texttoptiebar{d\textipa{Z}}/
+\item <ë> for the mid central vowel /\textschwa /
+
+\end{itemize}
+
+All other sounds are represented with their Latin alphabet counterpart. I am using this orthographic system throughout the present sketch grammar unless specified with the use of square brackets or slashes for phonetic symbols.
+
+\subsection{Phonemic contrasts}\label{sec:contr}
+
+In this section I show some examples of phonemes the contrastiveness of which could in principle be argued.
+
+\subsubsection{Initial and final glottal stops /\textglotstop/}
+
+Word initial and word final glottal stops /\textglotstop / are not easily perceived by speakers of languages, such as most European ones, which do not have it as a constrastive phoneme. In Hewa, the contrast between the presence or absence of a glottal stop /\textglotstop / in word initial positions is clear when looking at vowel length: the vowel only becomes long in the absence of a consonant, not limited to, but including, the glottal stop /\textglotstop /.
+
+\ex. \textit{a'u} ([\textipa{a:Pu}]) `I' vs \textit{'au} ([\textipa{Pau}]) `you (singular)'
+
+Glottal stops in final position do not seem to affect the adjacent vowel in the same way as they do in initial position, but the speaker does point it out when repeating the elicited word back to him. A clear minimal pair is \ref{ex:ita}, which is a sequence of words that also happens to occur in natural speech.
+
+\ex. \label{ex:ita} \textit{'ita} `we (inclusive)' vs \textit{'ita'} `to see'
+
+\subsubsection{Mid-front and central vowels /a/ /e/ /\textschwa/}
+
+Below are some examples that show that /\textschwa / is a distinctive sound in Hewa. Example \ref{ex:blon} shows that [\textschwa] is not an epenthetical vowel, as it appears in between consonants which would otherwise form an acceptable cluster.
+
+\ex. \label{ex:blon} \textit{bëli} `to give' vs \textit{blon} `long'
+
+Example \ref{ex:lap} shows a near-minimal pair between /\textschwa / and /a/; \ref{ex:rek} shows a near minimal pair between /\textschwa / and /e/.
+
+\ex. \label{ex:lap} \textit{lëpo} `house' vs \textit{lapot} `to hit'
+
+\ex. \label{ex:rek} \textit{rëkak} `nether regions' vs \textit{rekat} `corner of the rice field'
+
+\subsection{Syllable structure}\label{sec:syl}
+
+%ALL BUT ONE MONOSYLLABIC WORD (tur) END WITH A LONG VOWEL
+
+Almost all words in Hewa are monosyllabic or disyllabic . Tri- and quadrisyllabic words are attested for but seem to be compounds; more research is needed in that regard. 
+
+Below is a list of syllable patterns observed in the data gathered so far.
+
+\begin{enumerate}
+
+\item V (final syllable only) - \textit{wae}  ([\textipa{Bae}])`face'
+%? (POSSIBLY GLOTTAL STOP THAT I'M MISSING)
+\item CV - \textit{dula} ([du.la]) `belly'
+\item VV - \textit{ala} ([a\textlengthmark .la]) `head'
+\item CVV (monosyllabic words only) - \textit{to} [to\textlengthmark] `to laugh'
+\item CVC (final syllable only) - \textit{lurin} ([lu.rin]) `bone' 
+\item CCV - \textit{plupi} ([plu.pi]) `to blow'
+\item CCVC (monosyllabic words only) - \textit{blon} ([blon]) `long'
+
+\end{enumerate}
+
+All Hewa consonants appear in onset position. The coda position is more restricted. Some of the restrictions observed are listed below.
+
+\begin{itemize}
+
+\item Plosives are restricted to /t/, /k/, and /\textglotstop /, which means that the voicing distinction is lost. The bilabial plosive /p/ only so far only appears in the data in the word \textit{lap} `to wipe', which is an Indonesian loan word, in turn borrowed by Indonesian from Dutch. It can then be argued that /p/ is in general not an acceptable coda in Hewa.
+
+\item Fricatives do not appear in coda position, except for in loan words.
+
+\item Nasals are restricted to /n/ and /\textipa{N}/, which means that the bilabial nasal /m/ is also not acceptable.
+
+\item Liquids are restricted to /r/, which means that the contrast between /r/ and /l/ is lost and that /l/ is not acceptable.
+
+\end{itemize}
+
+The coda position can only be filled on the last syllable; examples of medial codas only appear in loan words (\textit{kursi} `chair'). Stressed syllables must have a weight of at least 2; in syllables without an onset or a coda, that is, in syllables where the only element is a vowel, said vowel is lengthened (\textit{ahu} [\textipa{a:hu}] `dog' vs \textit{gahu'} [\textipa{gahuP}] `hot'). The vowel is also lengthened in monosyllabic words with no coda, such as in  \textit{bo} ([\textipa{bo:}]) `to spit'. With these restrictions in mind, the syllable structure of a prototypical Hewa word can be summarized thus:
+
+\begin{itemize}
+
+\item A monosyllabic word may present the structure CVV (most commonly) or CVC (more rarely).
+
+\item A disyllabic word may have as its first syllable CV, CCV, or VV, and as its second syllable V, CV, or CVC. The structure of the first syllable does not seem to condition that of the second one; however, words with the structure VV.V are not attested for, and would be typologically strange.
+
+\end{itemize}
+
+
+\subsection{Stress}\label{sec:str}
+
+%seems to be marked by a higher tone on the stressed syllable
+
+Stress in Hewa appears to be predictable and therefore not contrasting. Words in Hewa are generally stress initial, except for when the first vowel is a /\textschwa/. It is unclear whether it is the /\textschwa/ that shifts the stress away from the syllable or whether /\textschwa/ is simply a result of a diachronic process of vocalic reduction stemming from a loss of stress on the syllable. The most likely explanation seems to be the latter, but this type of inquiry is beyond the scope of this sketch grammar.
+
+\end{document}

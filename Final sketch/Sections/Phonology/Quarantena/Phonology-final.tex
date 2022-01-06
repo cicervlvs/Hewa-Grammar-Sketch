@@ -1,4 +1,5 @@
-\documentclass{article}
+\documentclass[subpreambles=true]{standalone}
+\usepackage{standalone}
 
 \usepackage[american]{babel}
 %\usepackage[utf8]{inputenc}
@@ -9,7 +10,7 @@
 \addbibresource{C:/Users/aleja/Bibtex/library.bib}
 
 \usepackage[american]{varioref}
-\usepackage{tgtermes} %times font
+\usepackage{mathptmx} %times font
 \usepackage[T1]{tipa} %notació fonètica IPA
 \usepackage{linguex} %exemples lingüístics
 \usepackage{multirow} %taules
@@ -19,13 +20,18 @@
 \setcounter{secnumdepth}{5}
 \setcounter{tocdepth}{5}
 
+\ifstandalone
 \titleformat{\paragraph} [hang] {\normalfont\normalsize\bfseries} {\theparagraph} {1em} {}
 
 \title{A Phonological Sketch of Hewa}
+\fi
 
 \begin{document}
+ pepepepepepeppe
 
+\ifstandalone
 \section{Phonology}
+\fi
 
 In this section, the basic phonology of Hewa is outlined. In section \ref{sec:inv}, the consonant and vowel inventories are given. In section \ref{sec:spel}, the spelling system is presented. Section \ref{sec:contr} shows (near)- minimal pairs to give evidence for the contrasts among different phonemes. Section \ref{sec:syl} gives an overview of the syllable structure and phonotactics. Section \ref{sec:str} briefly discusses stress patterns. Finally, a list of the vocabulary compiled so far is presented.
 
@@ -199,7 +205,5 @@ The coda position can only be filled on the last syllable; examples of medial co
 %seems to be marked by a higher tone on the stressed syllable
 
 Stress in Hewa appears to be predictable and therefore not contrasting. Words in Hewa are generally stress initial, except for when the first vowel is a /\textschwa/. It is unclear whether it is the /\textschwa/ that shifts the stress away from the syllable or whether /\textschwa/ is simply a result of a diachronic process of vocalic reduction stemming from a loss of stress on the syllable. The most likely explanation seems to be the latter, but this type of inquiry is beyond the scope of this sketch grammar.
-
-\subsection*{Word list}\label{sec:wor}
 
 \end{document}

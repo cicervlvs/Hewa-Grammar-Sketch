@@ -26,8 +26,7 @@
 \usepackage[table,xcdraw]{xcolor}
 \usepackage{booktabs}
 \usepackage{multirow} %taules
-\usepackage[
-singlelinecheck=false]{caption}
+\usepackage[singlelinecheck=false]{caption}
 
 \usepackage{titlesec}
 \usepackage{titletoc}
@@ -109,9 +108,9 @@ The latter strategy, that of adding the possessive marker on the possessed noun,
 \ex<assim> %% "main" example needs a tag
 \begingl %% start glosses
 \gla Meong-(n) kekor blara //
-\glb cat-(\Poss{}) tail hurts//
+\glb cat-(\Poss{}) tail hurt//
 \glft `The cat's tail hurts' // 
-\endgl
+\endgl %maybe intonation change?
 \xe
 
 \ex<cantposshead>
@@ -120,7 +119,7 @@ The latter strategy, that of adding the possessive marker on the possessed noun,
 \glb Alejandro father work \Loc{} rice.field//
 \glft `Alejandro's father works in the rice field' // 
 \endgl
-\xe
+\xe %i missed the possessive suffix and the pronoun!
 
 \subsubsection{Predicative possession}
 
@@ -177,25 +176,27 @@ Intransitive verbs can change its valency, that is, be made transitives, with th
 \pex<caus> %% "main" example needs a tag
 \a<mate> %% First part with a tag
 \begingl %% Start glosses
-\gla A'u bëli mate manu''ia//
+\gla A'u bëli mate manu' 'ia//
 \glb \First{}\Sg{} give die chicken \textsc{def}//
 \glft `I kill the chicken'//
 \endgl
 
 \a<ga> %% Second part
 \begingl %% start glosses
-\gla A'u bëli ga manu''ia//
+\gla A'u bëli ga manu' 'ia//
 \glb  \First{}\Sg{} give eat chicken \textsc{def}//
 \glft `I feed the chicken'// 
 \endgl
 
 \a<du'e'> %% Second part
 \begingl %% start glosses
-\gla A’u bëli {dedi nurak} ‘ia du’e’ ‘ia tepi ‘ia//
+\gla A'u bëli {dedi nurak} 'ia du'e' 'ia tepi 'ia//
 \glb \First{}\Sg{} give baby \textsc{def} lie \Loc{} cot \textsc{def}//
 \glft `I put the baby to sleep on the bed' (lit. `I give the baby lying on the bed')// 
 \endgl
 \xe
+
+\subsection{Reflexive constructions}
 
 \subsection{Equational clauses}
 
@@ -216,7 +217,7 @@ Equational clauses are created by using a subject followed by its attribute, wit
 \gla nimun e'on bi'an du'at iwa//
 \glb \textsc{3sg} \textsc{neg} person woman \textsc{neg}//
 \glft `He is not a woman' // 
-\endgl
+\endgl %-t may be a morpheme
 \xe 
 
 \ex<attradj>
@@ -288,7 +289,7 @@ There is also one verb attested so far which appears to be completely irregular 
 
 \subsection{Tense}
 
-Verbs in Hewa are not inflected by tense, so the time at which an action takes place is expressed syntactically.
+Verbs in Hewa are not inflected by tense, so the time at which an action takes place is expressed syntactically. %with words? might be ambiguous
 
 For past sentences, adverbs of time are used.
 
@@ -310,6 +311,8 @@ Some verbs may be reduplicated to mark a continuous aspect. (examples)
 
 Predicative negation is expressed with the use of a double particle \textit{e'on ... iwa} wrapped around the verb, as shown in (\getfullref{normneg}-\getfullref{adjneg}).
 
+%negation might be also used for nouns and adjectives
+
 \ex<normneg>
 \begingl %% start glosses
 \gla Nimu e'on nani iwa//
@@ -321,7 +324,7 @@ Predicative negation is expressed with the use of a double particle \textit{e'on
 \ex<adjneg>
 \begingl %% start glosses
 \gla {dedi du'at} 'ia e'on gëhar 'iwa//
-\glb womn \textsc{def} \textsc{neg} tall \textsc{neg}//
+\glb woman \textsc{def} \textsc{neg} tall \textsc{neg}//
 \glft `The woman is not tall' // 
 \endgl
 \xe
@@ -340,7 +343,7 @@ There seems to be a distinction between two types of existential negation. The f
 \begingl %% start glosses
 \gla Manu' meran e'on//
 \glb chicken red \textsc{neg}//
-\glft `There are no red chickens' (`red chickens do not exist' // 
+\glft `There are no red chickens' (`red chickens do not exist') // 
 \endgl
 \xe
 
@@ -364,19 +367,19 @@ Negative imperatives are expressed by preposing \textit{opo} to the verb, as ill
 
 \subsection{Questions}
 
-Polar questions seem to be expressed by simply changing the intonation of the sentence to a rising one, which peaks on the last stressed syllable, after which it drops slightly.
+Polar questions seem to be expressed by simply changing the intonation of the sentence to a rising one, which peaks on the last stressed syllable, after which it drops slightly. %final boundary tone might be more precise terminology
 
 In polar questions, the particle \textit{ko} may be added to express disbelief in the questioned proposition. An example of this is (\getfullref{ko}).
 
 \ex<ko>
 \begingl %% start glosses
 \gla Lëpo rimu-n gëte ko?//
-\glb house 3\textsc{pl}-\Poss{} big \textsc{disb}//
+\glb house 3\textsc{pl}-\Poss{} big \Q{}//
 \glft `Is their house actually big?' // 
 \endgl 
 \xe
 
-For open ended questions, interrogative pronouns are used. Thesemay appear at various points in the sentence. In fact, word order is flexible in this kind of questions, as exemplified in the variation in (\getfullref{qwordord}). This order is possibly subordinate to the structuring of the information within the sentence.
+For open ended questions, interrogative pronouns are used. These may appear at various points in the sentence. In fact, word order is flexible in this kind of questions, as exemplified in the variation in (\getfullref{qwordord}). This order is possibly subordinate to the structuring of the information within the sentence.
 
 \pex<qwordord> %% "main" example needs a tag
 \a<umur>
@@ -390,14 +393,14 @@ For open ended questions, interrogative pronouns are used. Thesemay appear at va
 \begingl %% start glosses
 \gla Meong 'au-n umur pira?//
 \glb cat \Second{}\Sg{}-\Poss{} age how.many//
-\glft `How old is your cat?'// 
+\glft `What age is your cat?'// 
 \endgl
 
 \a<goa> %% Second part
 \begingl %% start glosses
 \gla Umur pira meong 'aun?//
 \glb age how.many cat \Second{}\Sg{}-\Poss{}//
-\glft `How old is your cat?'// 
+\glft `What age is your cat?'// 
 \endgl
 \xe
 
@@ -449,7 +452,7 @@ Places are questioned with the pronoun \textit{upa} `where', as illustrated in (
 \xe 
 
 Manner is questioned with the composite pronoun \textit{ganu upan} `how', as seen in (\getfullref{qwordord}) above. This double term might be analyzable as `manner' + `where', as \textit{upan} bears resemblance to \textit{upa}, the pronoun exemplified in (\getfullref{where}) above. Nonetheless, the term for `manner' has not been obtained as of the writing of this sketch, and there is no evidence to support this analysis.
-%Might be analyzable into two lexical words
+%Might be analyzable into two lexical words, also -n in upan might be a possessive?
 
 Time is questioned with the composite pronoun \textit{rama pira} `when', as illustrated in (\getfullref{when}). This double pronoun might also be analyzable, this time as `time' + `how much/how many', but the term for `time' has not been obtained yet.
 
