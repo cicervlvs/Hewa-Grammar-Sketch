@@ -1,0 +1,98 @@
+\documentclass{article}
+
+\usepackage[american]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[english=american]{csquotes}
+%\usepackage{fullpage}
+
+\usepackage[style=apa, backend=biber, natbib=true]{biblatex}
+\addbibresource{C:/Users/aleja/Bibtex/library.bib}
+\addbibresource{Bibliography/misc.bib}
+
+\usepackage{mathptmx} %times font
+\usepackage[T1]{tipa} %notació fonètica IPA
+\usepackage{expex} %exemples lingüístics
+\gathertags % per forward reference expex
+\lingset{aboveglftskip=-.2ex,interpartskip=\baselineskip} % per treure l'espai entre glossa i traducció
+\usepackage{leipzig} %glossari automàtic
+\makeglossaries
+\newleipzig[]{Rdp}{rdp}{reduplication}
+\newleipzig[]{Dir}{dir}{direction}
+\newleipzig[]{Fill}{fill}{filler}
+\newleipzig[]{Sup}{sup}{superlative}
+\newleipzig[]{Corr}{corr}{correlative}
+\newleipzig[]{Inj}{inj}{interjection}
+\newleipzig[]{Dei}{dei}{deictic}
+
+
+\usepackage{color}
+%\usepackage{transparent}
+
+\usepackage{multirow} %taules
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{booktabs}
+\usepackage[singlelinecheck=false]{caption}
+\usepackage{pdfpages}
+
+\usepackage[american]{varioref}
+%\usepackage{hyperref}
+\usepackage{cleveref}
+\usepackage{graphicx}
+\usepackage{caption}
+\captionsetup{font=small} % fa els peus de pàgina més petits
+\setlength{\textfloatsep}{22pt plus 1.0pt minus 2.0pt}
+
+\usepackage{titlesec}
+\usepackage{titletoc}
+\setcounter{secnumdepth}{5}
+\setcounter{tocdepth}{5}
+
+\newcommand{\fakesection}[1]{%
+  \par\refstepcounter{section}% Increase section counter
+  \sectionmark{#1}% Add section mark (header)
+  \addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}% Add section to ToC
+  % Add more content here, if needed.
+}
+
+\titleformat{\paragraph} [hang] {\normalfont\normalsize\bfseries} {\theparagraph} {1em} {}
+
+\title{A sketch grammar of Hewa}
+\author{Alejandro García Matarredona}
+\date{January 31, 2022}
+
+\usepackage{subfiles}
+
+\begin{document}
+
+\maketitle
+\newpage
+
+\tableofcontents
+
+%Glossary
+\printglosses[style=mcolblock]
+\newpage
+
+%Introduction
+\subfile{Sections/Introduction/Introduction-subfiles}
+
+%Phonology
+\subfile{Sections/Phonology/Phonology-subfiles}
+
+%Morpho-syntax
+\subfile{Sections/Morpho-syntax/Morpho-syntax-subfiles}
+
+%Bibliography
+\printbibliography
+
+\appendix
+
+\newpage
+\fakesection{Hewa text: a day out in Hewa}\label{sec:text}
+\includepdf[pages=-]{Text/a_day_out_in_hewa.pdf}
+
+\fakesection{Hewa wordlist}\label{sec:wordlist}
+
+\includepdf[pages={1-9}]{Wordlist/hewa_wordlist.pdf}
+
+\end{document}
